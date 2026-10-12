@@ -60,7 +60,8 @@ async function region(id, r) {
   out.length = 0;
   out.push(...[...byDate.values()].sort((a, b) => a.date < b.date ? -1 : 1).slice(0, 10));
   if (out.length < 3) throw new Error(`${id}: only ${out.length} days`);
-  return { station: r.name, stationElevationFt: Math.round(r.alt * 3.28084), days: out };
+  // tz lets the game ask what date it is AT the region, which is the date these days are filed under.
+  return { station: r.name, stationElevationFt: Math.round(r.alt * 3.28084), tz: r.tz, days: out };
 }
 
 let previous = {};
