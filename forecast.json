@@ -1,0 +1,632 @@
+{
+ "version": 1,
+ "updated": "2026-10-12T15:24:47.569Z",
+ "credit": "Weather data from MET Norway",
+ "source": "https://api.met.no/",
+ "regions": {
+  "san_bernardino": {
+   "station": "Big Bear Lake",
+   "stationElevationFt": 6749,
+   "days": [
+    {
+     "date": "2026-10-12",
+     "highF": 45,
+     "lowF": 38,
+     "rainMm": 3,
+     "rainChance": 0.75,
+     "readings": 16
+    },
+    {
+     "date": "2026-10-13",
+     "highF": 52,
+     "lowF": 34,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-14",
+     "highF": 59,
+     "lowF": 36,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-15",
+     "highF": 57,
+     "lowF": 42,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-16",
+     "highF": 58,
+     "lowF": 43,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-17",
+     "highF": 61,
+     "lowF": 44,
+     "rainMm": 0.6,
+     "rainChance": 0.25,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-18",
+     "highF": 63,
+     "lowF": 42,
+     "rainMm": 0.1,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-19",
+     "highF": 62,
+     "lowF": 44,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-20",
+     "highF": 52,
+     "lowF": 38,
+     "rainMm": 1.2,
+     "rainChance": 0.5,
+     "readings": 4
+    }
+   ]
+  },
+  "sierra_nevada": {
+   "station": "Yosemite Valley",
+   "stationElevationFt": 3970,
+   "days": [
+    {
+     "date": "2026-10-12",
+     "highF": 51,
+     "lowF": 42,
+     "rainMm": 2.5,
+     "rainChance": 0.5,
+     "readings": 16
+    },
+    {
+     "date": "2026-10-13",
+     "highF": 64,
+     "lowF": 36,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-14",
+     "highF": 70,
+     "lowF": 37,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-15",
+     "highF": 74,
+     "lowF": 47,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-16",
+     "highF": 76,
+     "lowF": 48,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-17",
+     "highF": 71,
+     "lowF": 46,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-18",
+     "highF": 71,
+     "lowF": 45,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-19",
+     "highF": 69,
+     "lowF": 46,
+     "rainMm": 0.4,
+     "rainChance": 0.25,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-20",
+     "highF": 47,
+     "lowF": 42,
+     "rainMm": 18.5,
+     "rainChance": 0.9,
+     "readings": 4
+    }
+   ]
+  },
+  "coastal": {
+   "station": "San Diego Coast",
+   "stationElevationFt": 30,
+   "days": [
+    {
+     "date": "2026-10-12",
+     "highF": 68,
+     "lowF": 62,
+     "rainMm": 0.7,
+     "rainChance": 0.25,
+     "readings": 16
+    },
+    {
+     "date": "2026-10-13",
+     "highF": 69,
+     "lowF": 60,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-14",
+     "highF": 74,
+     "lowF": 57,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-15",
+     "highF": 77,
+     "lowF": 62,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-16",
+     "highF": 81,
+     "lowF": 66,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-17",
+     "highF": 85,
+     "lowF": 70,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-18",
+     "highF": 84,
+     "lowF": 67,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-19",
+     "highF": 81,
+     "lowF": 68,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-20",
+     "highF": 73,
+     "lowF": 66,
+     "rainMm": 2.8,
+     "rainChance": 0.5,
+     "readings": 4
+    }
+   ]
+  },
+  "mojave_desert": {
+   "station": "Twentynine Palms",
+   "stationElevationFt": 1975,
+   "days": [
+    {
+     "date": "2026-10-12",
+     "highF": 68,
+     "lowF": 56,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 16
+    },
+    {
+     "date": "2026-10-13",
+     "highF": 63,
+     "lowF": 53,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-14",
+     "highF": 69,
+     "lowF": 52,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-15",
+     "highF": 70,
+     "lowF": 58,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-16",
+     "highF": 73,
+     "lowF": 58,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-17",
+     "highF": 74,
+     "lowF": 62,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-18",
+     "highF": 76,
+     "lowF": 63,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-19",
+     "highF": 80,
+     "lowF": 64,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-20",
+     "highF": 76,
+     "lowF": 58,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    }
+   ]
+  },
+  "blue_mountains": {
+   "station": "Katoomba",
+   "stationElevationFt": 3337,
+   "days": [
+    {
+     "date": "2026-10-13",
+     "highF": 59,
+     "lowF": 48,
+     "rainMm": 14.5,
+     "rainChance": 0.9,
+     "readings": 22
+    },
+    {
+     "date": "2026-10-14",
+     "highF": 54,
+     "lowF": 39,
+     "rainMm": 3.6,
+     "rainChance": 0.75,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-15",
+     "highF": 53,
+     "lowF": 38,
+     "rainMm": 10.3,
+     "rainChance": 0.9,
+     "readings": 19
+    },
+    {
+     "date": "2026-10-16",
+     "highF": 50,
+     "lowF": 43,
+     "rainMm": 7.2,
+     "rainChance": 0.75,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-17",
+     "highF": 54,
+     "lowF": 44,
+     "rainMm": 3.5,
+     "rainChance": 0.75,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-18",
+     "highF": 56,
+     "lowF": 43,
+     "rainMm": 3.3,
+     "rainChance": 0.75,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-19",
+     "highF": 57,
+     "lowF": 45,
+     "rainMm": 7.4,
+     "rainChance": 0.75,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-20",
+     "highF": 60,
+     "lowF": 49,
+     "rainMm": 2.4,
+     "rainChance": 0.5,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-21",
+     "highF": 65,
+     "lowF": 45,
+     "rainMm": 1.2,
+     "rainChance": 0.5,
+     "readings": 4
+    }
+   ]
+  },
+  "atlantic_forest": {
+   "station": "Teresopolis",
+   "stationElevationFt": 3071,
+   "days": [
+    {
+     "date": "2026-10-12",
+     "highF": 77,
+     "lowF": 65,
+     "rainMm": 2.2,
+     "rainChance": 0.5,
+     "readings": 12
+    },
+    {
+     "date": "2026-10-13",
+     "highF": 80,
+     "lowF": 61,
+     "rainMm": 1.4,
+     "rainChance": 0.5,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-14",
+     "highF": 82,
+     "lowF": 66,
+     "rainMm": 5,
+     "rainChance": 0.75,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-15",
+     "highF": 74,
+     "lowF": 65,
+     "rainMm": 37.9,
+     "rainChance": 0.9,
+     "readings": 7
+    },
+    {
+     "date": "2026-10-16",
+     "highF": 69,
+     "lowF": 63,
+     "rainMm": 11.4,
+     "rainChance": 0.9,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-17",
+     "highF": 70,
+     "lowF": 60,
+     "rainMm": 25.9,
+     "rainChance": 0.9,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-18",
+     "highF": 60,
+     "lowF": 57,
+     "rainMm": 9.8,
+     "rainChance": 0.9,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-19",
+     "highF": 60,
+     "lowF": 56,
+     "rainMm": 7.4,
+     "rainChance": 0.75,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-20",
+     "highF": 60,
+     "lowF": 56,
+     "rainMm": 10.7,
+     "rainChance": 0.9,
+     "readings": 4
+    }
+   ]
+  },
+  "banff": {
+   "station": "Banff Townsite",
+   "stationElevationFt": 4583,
+   "days": [
+    {
+     "date": "2026-10-12",
+     "highF": 50,
+     "lowF": 26,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 15
+    },
+    {
+     "date": "2026-10-13",
+     "highF": 54,
+     "lowF": 29,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-14",
+     "highF": 54,
+     "lowF": 33,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-15",
+     "highF": 50,
+     "lowF": 32,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-16",
+     "highF": 52,
+     "lowF": 33,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-17",
+     "highF": 52,
+     "lowF": 33,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-18",
+     "highF": 48,
+     "lowF": 33,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-19",
+     "highF": 48,
+     "lowF": 32,
+     "rainMm": 0.1,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-20",
+     "highF": 43,
+     "lowF": 35,
+     "rainMm": 2.9,
+     "rainChance": 0.5,
+     "readings": 4
+    }
+   ]
+  },
+  "rocky_mountain": {
+   "station": "Estes Park",
+   "stationElevationFt": 7523,
+   "days": [
+    {
+     "date": "2026-10-12",
+     "highF": 65,
+     "lowF": 47,
+     "rainMm": 1.2,
+     "rainChance": 0.5,
+     "readings": 15
+    },
+    {
+     "date": "2026-10-13",
+     "highF": 57,
+     "lowF": 42,
+     "rainMm": 11.8,
+     "rainChance": 0.9,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-14",
+     "highF": 44,
+     "lowF": 39,
+     "rainMm": 9,
+     "rainChance": 0.9,
+     "readings": 24
+    },
+    {
+     "date": "2026-10-15",
+     "highF": 40,
+     "lowF": 36,
+     "rainMm": 15.5,
+     "rainChance": 0.9,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-16",
+     "highF": 47,
+     "lowF": 32,
+     "rainMm": 0.2,
+     "rainChance": 0.25,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-17",
+     "highF": 60,
+     "lowF": 31,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-18",
+     "highF": 60,
+     "lowF": 40,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-19",
+     "highF": 60,
+     "lowF": 34,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-10-20",
+     "highF": 63,
+     "lowF": 38,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    }
+   ]
+  }
+ }
+}

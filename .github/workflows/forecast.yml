@@ -1,0 +1,23 @@
+name: Daily forecast
+on:
+  schedule:
+    - cron: '17 9 * * *'   # once a day, 09:17 UTC
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  forecast:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node fetch-forecast.mjs
+      - name: Publish
+        run: |
+          git config user.name "forecast-bot"
+          git config user.email "forecast-bot@users.noreply.github.com"
+          git add forecast.json
+          git diff --cached --quiet || git commit -m "Forecast $(date -u +%F)"
+          git push
