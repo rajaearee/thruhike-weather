@@ -1,6 +1,6 @@
 {
  "version": 1,
- "updated": "2026-11-16T19:31:35.328Z",
+ "updated": "2026-11-17T18:31:18.005Z",
  "credit": "Weather data from MET Norway",
  "source": "https://api.met.no/",
  "regions": {
@@ -9,14 +9,6 @@
    "stationElevationFt": 6749,
    "tz": "America/Los_Angeles",
    "days": [
-    {
-     "date": "2026-11-16",
-     "highF": 51,
-     "lowF": 36,
-     "rainMm": 3,
-     "rainChance": 0.75,
-     "readings": 24
-    },
     {
      "date": "2026-11-17",
      "highF": 40,
@@ -35,40 +27,40 @@
     },
     {
      "date": "2026-11-19",
-     "highF": 37,
+     "highF": 38,
      "lowF": 33,
-     "rainMm": 34.1,
+     "rainMm": 17.8,
      "rainChance": 0.9,
-     "readings": 8
+     "readings": 23
     },
     {
      "date": "2026-11-20",
      "highF": 42,
-     "lowF": 23,
+     "lowF": 27,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
     },
     {
      "date": "2026-11-21",
-     "highF": 46,
-     "lowF": 25,
+     "highF": 45,
+     "lowF": 27,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
     },
     {
      "date": "2026-11-22",
-     "highF": 48,
-     "lowF": 29,
+     "highF": 47,
+     "lowF": 31,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
     },
     {
      "date": "2026-11-23",
-     "highF": 40,
-     "lowF": 25,
+     "highF": 39,
+     "lowF": 29,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
@@ -76,7 +68,15 @@
     {
      "date": "2026-11-24",
      "highF": 49,
-     "lowF": 27,
+     "lowF": 31,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-11-25",
+     "highF": 57,
+     "lowF": 40,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
@@ -89,14 +89,6 @@
    "tz": "America/Los_Angeles",
    "days": [
     {
-     "date": "2026-11-16",
-     "highF": 46,
-     "lowF": 33,
-     "rainMm": 12.9,
-     "rainChance": 0.9,
-     "readings": 24
-    },
-    {
      "date": "2026-11-17",
      "highF": 43,
      "lowF": 15,
@@ -106,56 +98,64 @@
     },
     {
      "date": "2026-11-18",
-     "highF": 41,
-     "lowF": 17,
-     "rainMm": 34.8,
+     "highF": 42,
+     "lowF": 20,
+     "rainMm": 36.2,
      "rainChance": 0.9,
      "readings": 24
     },
     {
      "date": "2026-11-19",
-     "highF": 39,
+     "highF": 41,
      "lowF": 34,
-     "rainMm": 39.7,
+     "rainMm": 50.8,
      "rainChance": 0.9,
-     "readings": 8
+     "readings": 23
     },
     {
      "date": "2026-11-20",
-     "highF": 42,
-     "lowF": 13,
+     "highF": 40,
+     "lowF": 11,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
     },
     {
      "date": "2026-11-21",
-     "highF": 49,
-     "lowF": 16,
-     "rainMm": 0.1,
-     "rainChance": 0.03,
-     "readings": 4
-    },
-    {
-     "date": "2026-11-22",
-     "highF": 46,
-     "lowF": 35,
-     "rainMm": 2,
-     "rainChance": 0.5,
-     "readings": 4
-    },
-    {
-     "date": "2026-11-23",
-     "highF": 45,
-     "lowF": 19,
-     "rainMm": 0.3,
+     "highF": 47,
+     "lowF": 15,
+     "rainMm": 0.6,
      "rainChance": 0.25,
      "readings": 4
     },
     {
+     "date": "2026-11-22",
+     "highF": 45,
+     "lowF": 37,
+     "rainMm": 3,
+     "rainChance": 0.75,
+     "readings": 4
+    },
+    {
+     "date": "2026-11-23",
+     "highF": 47,
+     "lowF": 24,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
      "date": "2026-11-24",
-     "highF": 49,
-     "lowF": 25,
+     "highF": 52,
+     "lowF": 30,
+     "rainMm": 2.8,
+     "rainChance": 0.5,
+     "readings": 4
+    },
+    {
+     "date": "2026-11-25",
+     "highF": 55,
+     "lowF": 35,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
@@ -168,14 +168,6 @@
    "tz": "America/Los_Angeles",
    "days": [
     {
-     "date": "2026-11-16",
-     "highF": 68,
-     "lowF": 62,
-     "rainMm": 8.4,
-     "rainChance": 0.9,
-     "readings": 24
-    },
-    {
      "date": "2026-11-17",
      "highF": 67,
      "lowF": 58,
@@ -186,7 +178,7 @@
     {
      "date": "2026-11-18",
      "highF": 68,
-     "lowF": 55,
+     "lowF": 56,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 24
@@ -195,46 +187,54 @@
      "date": "2026-11-19",
      "highF": 67,
      "lowF": 60,
-     "rainMm": 8.1,
-     "rainChance": 0.9,
-     "readings": 8
+     "rainMm": 5.6,
+     "rainChance": 0.75,
+     "readings": 23
     },
     {
      "date": "2026-11-20",
      "highF": 65,
      "lowF": 58,
-     "rainMm": 0.1,
-     "rainChance": 0.03,
+     "rainMm": 0.3,
+     "rainChance": 0.25,
      "readings": 4
     },
     {
      "date": "2026-11-21",
      "highF": 65,
-     "lowF": 53,
+     "lowF": 54,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
     },
     {
      "date": "2026-11-22",
-     "highF": 65,
+     "highF": 66,
      "lowF": 56,
-     "rainMm": 0.2,
-     "rainChance": 0.25,
+     "rainMm": 3.3,
+     "rainChance": 0.75,
      "readings": 4
     },
     {
      "date": "2026-11-23",
-     "highF": 66,
-     "lowF": 59,
-     "rainMm": 2.2,
-     "rainChance": 0.5,
+     "highF": 65,
+     "lowF": 57,
+     "rainMm": 3.6,
+     "rainChance": 0.75,
      "readings": 4
     },
     {
      "date": "2026-11-24",
-     "highF": 66,
-     "lowF": 53,
+     "highF": 67,
+     "lowF": 55,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-11-25",
+     "highF": 69,
+     "lowF": 59,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
@@ -247,14 +247,6 @@
    "tz": "America/Los_Angeles",
    "days": [
     {
-     "date": "2026-11-16",
-     "highF": 71,
-     "lowF": 54,
-     "rainMm": 0,
-     "rainChance": 0.03,
-     "readings": 24
-    },
-    {
      "date": "2026-11-17",
      "highF": 62,
      "lowF": 49,
@@ -265,30 +257,30 @@
     {
      "date": "2026-11-18",
      "highF": 66,
-     "lowF": 45,
+     "lowF": 46,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 24
     },
     {
      "date": "2026-11-19",
-     "highF": 60,
-     "lowF": 48,
-     "rainMm": 0.9,
+     "highF": 66,
+     "lowF": 49,
+     "rainMm": 0.3,
      "rainChance": 0.25,
-     "readings": 8
+     "readings": 23
     },
     {
      "date": "2026-11-20",
      "highF": 59,
-     "lowF": 48,
+     "lowF": 47,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
     },
     {
      "date": "2026-11-21",
-     "highF": 60,
+     "highF": 59,
      "lowF": 45,
      "rainMm": 0,
      "rainChance": 0.03,
@@ -296,15 +288,15 @@
     },
     {
      "date": "2026-11-22",
-     "highF": 63,
-     "lowF": 48,
+     "highF": 62,
+     "lowF": 46,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
     },
     {
      "date": "2026-11-23",
-     "highF": 59,
+     "highF": 58,
      "lowF": 49,
      "rainMm": 0,
      "rainChance": 0.03,
@@ -312,8 +304,16 @@
     },
     {
      "date": "2026-11-24",
-     "highF": 60,
+     "highF": 63,
      "lowF": 47,
+     "rainMm": 0,
+     "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-11-25",
+     "highF": 66,
+     "lowF": 52,
      "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
@@ -326,14 +326,6 @@
    "tz": "Australia/Sydney",
    "days": [
     {
-     "date": "2026-11-17",
-     "highF": 68,
-     "lowF": 43,
-     "rainMm": 0,
-     "rainChance": 0.03,
-     "readings": 24
-    },
-    {
      "date": "2026-11-18",
      "highF": 71,
      "lowF": 44,
@@ -344,57 +336,65 @@
     {
      "date": "2026-11-19",
      "highF": 75,
-     "lowF": 46,
-     "rainMm": 2.3,
-     "rainChance": 0.5,
+     "lowF": 45,
+     "rainMm": 3.6,
+     "rainChance": 0.75,
      "readings": 24
     },
     {
      "date": "2026-11-20",
-     "highF": 74,
+     "highF": 75,
      "lowF": 52,
-     "rainMm": 1.9,
-     "rainChance": 0.5,
-     "readings": 4
+     "rainMm": 3.7,
+     "rainChance": 0.75,
+     "readings": 19
     },
     {
      "date": "2026-11-21",
-     "highF": 74,
-     "lowF": 57,
-     "rainMm": 2.1,
+     "highF": 70,
+     "lowF": 54,
+     "rainMm": 2.3,
      "rainChance": 0.5,
      "readings": 4
     },
     {
      "date": "2026-11-22",
-     "highF": 79,
-     "lowF": 53,
-     "rainMm": 1,
-     "rainChance": 0.5,
+     "highF": 78,
+     "lowF": 55,
+     "rainMm": 0.4,
+     "rainChance": 0.25,
      "readings": 4
     },
     {
      "date": "2026-11-23",
-     "highF": 77,
-     "lowF": 57,
-     "rainMm": 7.6,
+     "highF": 67,
+     "lowF": 51,
+     "rainMm": 5.4,
      "rainChance": 0.75,
      "readings": 4
     },
     {
      "date": "2026-11-24",
-     "highF": 65,
-     "lowF": 50,
-     "rainMm": 0.9,
-     "rainChance": 0.25,
+     "highF": 61,
+     "lowF": 45,
+     "rainMm": 8.3,
+     "rainChance": 0.9,
      "readings": 4
     },
     {
      "date": "2026-11-25",
      "highF": 56,
-     "lowF": 47,
-     "rainMm": 1.2,
+     "lowF": 46,
+     "rainMm": 1,
      "rainChance": 0.5,
+     "readings": 4
+    },
+    {
+     "date": "2026-11-26",
+     "highF": 68,
+     "lowF": 43,
+     "rainMm": 0,
+     "rainChance": 0.03,
      "readings": 4
     }
    ]
@@ -405,14 +405,6 @@
    "tz": "America/Sao_Paulo",
    "days": [
     {
-     "date": "2026-11-16",
-     "highF": 74,
-     "lowF": 64,
-     "rainMm": 23,
-     "rainChance": 0.9,
-     "readings": 24
-    },
-    {
      "date": "2026-11-17",
      "highF": 74,
      "lowF": 62,
@@ -422,58 +414,66 @@
     },
     {
      "date": "2026-11-18",
-     "highF": 80,
-     "lowF": 58,
-     "rainMm": 1.4,
+     "highF": 81,
+     "lowF": 62,
+     "rainMm": 1.8,
      "rainChance": 0.5,
      "readings": 24
     },
     {
      "date": "2026-11-19",
-     "highF": 76,
-     "lowF": 65,
-     "rainMm": 5.2,
+     "highF": 80,
+     "lowF": 67,
+     "rainMm": 3.2,
      "rainChance": 0.75,
-     "readings": 12
+     "readings": 24
     },
     {
      "date": "2026-11-20",
-     "highF": 80,
-     "lowF": 66,
-     "rainMm": 4.5,
+     "highF": 79,
+     "lowF": 68,
+     "rainMm": 5.7,
      "rainChance": 0.75,
-     "readings": 4
+     "readings": 7
     },
     {
      "date": "2026-11-21",
-     "highF": 80,
-     "lowF": 69,
-     "rainMm": 1.6,
+     "highF": 82,
+     "lowF": 66,
+     "rainMm": 1.3,
      "rainChance": 0.5,
      "readings": 4
     },
     {
      "date": "2026-11-22",
-     "highF": 80,
+     "highF": 81,
      "lowF": 65,
-     "rainMm": 4.9,
-     "rainChance": 0.75,
+     "rainMm": 2.1,
+     "rainChance": 0.5,
      "readings": 4
     },
     {
      "date": "2026-11-23",
-     "highF": 80,
+     "highF": 78,
      "lowF": 69,
-     "rainMm": 7.6,
+     "rainMm": 6.9,
      "rainChance": 0.75,
      "readings": 4
     },
     {
      "date": "2026-11-24",
-     "highF": 78,
-     "lowF": 68,
-     "rainMm": 7.8,
+     "highF": 81,
+     "lowF": 67,
+     "rainMm": 6.3,
      "rainChance": 0.75,
+     "readings": 4
+    },
+    {
+     "date": "2026-11-25",
+     "highF": 74,
+     "lowF": 70,
+     "rainMm": 21.7,
+     "rainChance": 0.9,
      "readings": 4
     }
    ]
@@ -483,14 +483,6 @@
    "stationElevationFt": 4583,
    "tz": "America/Edmonton",
    "days": [
-    {
-     "date": "2026-11-16",
-     "highF": 38,
-     "lowF": 14,
-     "rainMm": 1.7,
-     "rainChance": 0.5,
-     "readings": 24
-    },
     {
      "date": "2026-11-17",
      "highF": 34,
@@ -503,55 +495,63 @@
      "date": "2026-11-18",
      "highF": 33,
      "lowF": 23,
-     "rainMm": 1.8,
+     "rainMm": 1.7,
      "rainChance": 0.5,
      "readings": 24
     },
     {
      "date": "2026-11-19",
-     "highF": 26,
-     "lowF": 15,
+     "highF": 31,
+     "lowF": 12,
      "rainMm": 0,
      "rainChance": 0.03,
-     "readings": 9
+     "readings": 24
     },
     {
      "date": "2026-11-20",
-     "highF": 23,
+     "highF": 22,
      "lowF": 10,
-     "rainMm": 0.3,
-     "rainChance": 0.25,
+     "rainMm": 4.8,
+     "rainChance": 0.75,
      "readings": 4
     },
     {
      "date": "2026-11-21",
-     "highF": 20,
-     "lowF": 12,
-     "rainMm": 0.5,
+     "highF": 17,
+     "lowF": -1,
+     "rainMm": 0.4,
      "rainChance": 0.25,
      "readings": 4
     },
     {
      "date": "2026-11-22",
-     "highF": 18,
-     "lowF": 6,
-     "rainMm": 0.7,
+     "highF": 14,
+     "lowF": 0,
+     "rainMm": 0.3,
      "rainChance": 0.25,
      "readings": 4
     },
     {
      "date": "2026-11-23",
-     "highF": 22,
-     "lowF": 13,
-     "rainMm": 0.4,
+     "highF": 18,
+     "lowF": 4,
+     "rainMm": 0.2,
      "rainChance": 0.25,
      "readings": 4
     },
     {
      "date": "2026-11-24",
      "highF": 26,
-     "lowF": 18,
-     "rainMm": 0.5,
+     "lowF": 14,
+     "rainMm": 0.3,
+     "rainChance": 0.25,
+     "readings": 4
+    },
+    {
+     "date": "2026-11-25",
+     "highF": 30,
+     "lowF": 23,
+     "rainMm": 0.4,
      "rainChance": 0.25,
      "readings": 4
     }
@@ -562,14 +562,6 @@
    "stationElevationFt": 7523,
    "tz": "America/Denver",
    "days": [
-    {
-     "date": "2026-11-16",
-     "highF": 57,
-     "lowF": 32,
-     "rainMm": 0,
-     "rainChance": 0.03,
-     "readings": 24
-    },
     {
      "date": "2026-11-17",
      "highF": 54,
@@ -588,31 +580,31 @@
     },
     {
      "date": "2026-11-19",
-     "highF": 50,
+     "highF": 53,
      "lowF": 28,
      "rainMm": 0,
      "rainChance": 0.03,
-     "readings": 9
+     "readings": 24
     },
     {
      "date": "2026-11-20",
      "highF": 43,
      "lowF": 30,
-     "rainMm": 1.6,
-     "rainChance": 0.5,
+     "rainMm": 0.4,
+     "rainChance": 0.25,
      "readings": 4
     },
     {
      "date": "2026-11-21",
      "highF": 32,
-     "lowF": 22,
-     "rainMm": 0.1,
+     "lowF": 23,
+     "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
     },
     {
      "date": "2026-11-22",
-     "highF": 43,
+     "highF": 45,
      "lowF": 23,
      "rainMm": 0,
      "rainChance": 0.03,
@@ -620,18 +612,26 @@
     },
     {
      "date": "2026-11-23",
-     "highF": 39,
-     "lowF": 25,
-     "rainMm": 0.1,
+     "highF": 38,
+     "lowF": 24,
+     "rainMm": 0,
      "rainChance": 0.03,
      "readings": 4
     },
     {
      "date": "2026-11-24",
-     "highF": 41,
-     "lowF": 27,
+     "highF": 42,
+     "lowF": 23,
      "rainMm": 0,
      "rainChance": 0.03,
+     "readings": 4
+    },
+    {
+     "date": "2026-11-25",
+     "highF": 42,
+     "lowF": 28,
+     "rainMm": 0.8,
+     "rainChance": 0.25,
      "readings": 4
     }
    ]
