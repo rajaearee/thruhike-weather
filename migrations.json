@@ -1,0 +1,84 @@
+{
+ "version": 1,
+ "updated": "2026-11-25T16:04:24.487Z",
+ "windowDays": 14,
+ "credit": "Sightings from iNaturalist",
+ "source": "https://www.inaturalist.org/",
+ "regions": {
+  "san_bernardino": [
+   {
+    "species": "acorn_wood_pecker_sb",
+    "reports": 10,
+    "times": 3
+   },
+   {
+    "species": "red_tailed_hawk_sb",
+    "reports": 6,
+    "times": 2.5
+   }
+  ],
+  "coastal": [
+   {
+    "species": "brant_goose",
+    "reports": 13,
+    "times": 14.8
+   },
+   {
+    "species": "california_newt",
+    "reports": 15,
+    "times": 5.1
+   }
+  ],
+  "mojave_desert": [
+   {
+    "species": "queen_butterfly",
+    "reports": 31,
+    "times": 3.9
+   },
+   {
+    "species": "phainopepla",
+    "reports": 23,
+    "times": 3.4
+   }
+  ],
+  "sierra_nevada": [],
+  "blue_mountains": [
+   {
+    "species": "cunninghams_skink_bluemtns",
+    "reports": 6,
+    "times": 4.1
+   },
+   {
+    "species": "tawny_frogmouth_bluemtns",
+    "reports": 5,
+    "times": 3.3
+   }
+  ],
+  "atlantic_forest": [],
+  "banff": [
+   {
+    "species": "american_dipper_banff",
+    "reports": 5,
+    "times": 11.5
+   },
+   {
+    "species": "mule_deer_banff",
+    "reports": 8,
+    "times": 4.3
+   }
+  ],
+  "rocky_mountain": [
+   {
+    "species": "black_billed_magpie_rmnp",
+    "reports": 11,
+    "times": 4.6
+   },
+   {
+    "species": "mule_deer_rmnp",
+    "reports": 18,
+    "times": 3.9
+   }
+  ],
+  "sky_islands": []
+ }
+}

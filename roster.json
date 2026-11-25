@@ -1,0 +1,4525 @@
+{
+ "san_bernardino": [
+  {
+   "id": "white_lined_sphinx_moth_sb",
+   "sci": "Hyles lineata",
+   "name": "White-lined Sphinx Moth"
+  },
+  {
+   "id": "sierra_ensatina_salamander_sb",
+   "sci": "Ensatina eschscholtzii",
+   "name": "Large-blotched Ensatina"
+  },
+  {
+   "id": "southern_alligator_lizard_sb",
+   "sci": "Elgaria multicarinata",
+   "name": "Southern Alligator Lizard"
+  },
+  {
+   "id": "granite_spiny_lizard",
+   "sci": "Sceloporus orcutti",
+   "name": "Granite Spiny Lizard"
+  },
+  {
+   "id": "southern_pacific_rattlesnake",
+   "sci": "Crotalus helleri",
+   "name": "Southern Pacific Rattlesnake"
+  },
+  {
+   "id": "san_diego_horned_lizard_sb",
+   "sci": "Phrynosoma blainvillii",
+   "name": "San Diego Horned Lizard"
+  },
+  {
+   "id": "sb_mountain_kingsnake",
+   "sci": "Lampropeltis zonata",
+   "name": "San Bernardino Mountain Kingsnake"
+  },
+  {
+   "id": "peregrine_falcon_sb",
+   "sci": "Falco peregrinus",
+   "name": "Peregrine Falcon"
+  },
+  {
+   "id": "northern_goshawk_sb",
+   "sci": "Astur atricapillus",
+   "name": "American Goshawk"
+  },
+  {
+   "id": "san_bernardino_ringtail",
+   "sci": "Bassariscus astutus",
+   "name": "San Bernardino Ringtail"
+  },
+  {
+   "id": "american_black_bear_sb",
+   "sci": "Ursus americanus",
+   "name": "American Black Bear"
+  },
+  {
+   "id": "acorn_wood_pecker_sb",
+   "sci": "Melanerpes formicivorus",
+   "name": "Acorn Woodpecker"
+  },
+  {
+   "id": "american_dipper",
+   "sci": "Cinclus mexicanus",
+   "name": "American Dipper"
+  },
+  {
+   "id": "american_kestrel_sb",
+   "sci": "Falco sparverius",
+   "name": "American Kestrel"
+  },
+  {
+   "id": "san_bernardino_kangaroo_rat",
+   "sci": "Dipodomys merriami",
+   "name": "San Bernardino Kangaroo Rat"
+  },
+  {
+   "id": "badger_sb",
+   "sci": "Taxidea taxus",
+   "name": "Badger"
+  },
+  {
+   "id": "band_tailed_pigeon_sb",
+   "sci": "Patagioenas fasciata",
+   "name": "Band-tailed Pigeon"
+  },
+  {
+   "id": "big_brown_bat_sb",
+   "sci": "Eptesicus fuscus",
+   "name": "Big Brown Bat"
+  },
+  {
+   "id": "black_tailed_jackrabbit_sb",
+   "sci": "Lepus californicus",
+   "name": "Black-tailed Jackrabbit"
+  },
+  {
+   "id": "bobcat_sb",
+   "sci": "Lynx rufus",
+   "name": "Bobcat"
+  },
+  {
+   "id": "california_brush_rabbit_sb",
+   "sci": "Sylvilagus bachmani",
+   "name": "California Brush Rabbit"
+  },
+  {
+   "id": "california_ground_squirrel_sb",
+   "sci": "Otospermophilus beecheyi",
+   "name": "California Ground Squirrel"
+  },
+  {
+   "id": "california_quail_sb",
+   "sci": "Callipepla californica",
+   "name": "California Quail"
+  },
+  {
+   "id": "california_tree_frog_sb",
+   "sci": "Pseudacris cadaverina",
+   "name": "California Tree Frog"
+  },
+  {
+   "id": "pine_siskin",
+   "sci": "Spinus pinus",
+   "name": "Pine Siskin"
+  },
+  {
+   "id": "clarks_nutcracker_sb",
+   "sci": "Nucifraga columbiana",
+   "name": "Clark's Nutcracker"
+  },
+  {
+   "id": "coopers_hawk_sb",
+   "sci": "Accipiter cooperii",
+   "name": "Cooper's Hawk"
+  },
+  {
+   "id": "coyote_sb",
+   "sci": "Canis latrans",
+   "name": "Coyote"
+  },
+  {
+   "id": "coyote_sb_morph",
+   "sci": "Canis latrans",
+   "name": "Melanistic Coyote"
+  },
+  {
+   "id": "dark_eyed_junco_sb",
+   "sci": "Junco hyemalis",
+   "name": "Dark-eyed Junco"
+  },
+  {
+   "id": "desert_cottontail_sb",
+   "sci": "Sylvilagus audubonii",
+   "name": "Desert Cottontail"
+  },
+  {
+   "id": "flying_squirrel",
+   "sci": "Glaucomys oregonensis",
+   "name": "San Bernardino Flying Squirrel"
+  },
+  {
+   "id": "golden_mantled_ground_squirrel_sb",
+   "sci": "Callospermophilus lateralis",
+   "name": "San Bernardino Golden-mantled Ground Squirrel"
+  },
+  {
+   "id": "gray_fox_sb",
+   "sci": "Urocyon cinereoargenteus",
+   "name": "Gray Fox"
+  },
+  {
+   "id": "california_spotted_owl",
+   "sci": "Strix occidentalis",
+   "name": "California Spotted Owl"
+  },
+  {
+   "id": "great_horned_owl_01_sb",
+   "sci": "Bubo virginianus",
+   "name": "Great Horned Owl"
+  },
+  {
+   "id": "hermit_thrush_sb",
+   "sci": "Catharus guttatus",
+   "name": "Hermit Thrush"
+  },
+  {
+   "id": "lodgepole_chipmunk_sb",
+   "sci": "Neotamias speciosus",
+   "name": "Lodgepole Chipmunk"
+  },
+  {
+   "id": "red_crossbill",
+   "sci": "Loxia curvirostra",
+   "name": "Red Crossbill"
+  },
+  {
+   "id": "mountain_chickadee_sb",
+   "sci": "Poecile gambeli",
+   "name": "Mountain Chickadee"
+  },
+  {
+   "id": "mountain_garter_snake",
+   "sci": "Thamnophis elegans",
+   "name": "Mountain Garter Snake"
+  },
+  {
+   "id": "mountain_quail_sb",
+   "sci": "Oreortyx pictus",
+   "name": "Mountain Quail"
+  },
+  {
+   "id": "sagebrush_lizard",
+   "sci": "Sceloporus vandenburgianus",
+   "name": "Southern Sagebrush Lizard"
+  },
+  {
+   "id": "mule_deer_sb",
+   "sci": "Odocoileus hemionus",
+   "name": "Mule Deer"
+  },
+  {
+   "id": "northern_harrier_sb",
+   "sci": "Circus hudsonius",
+   "name": "Northern Harrier"
+  },
+  {
+   "id": "mountain_wood_duck",
+   "sci": "Aix sponsa",
+   "name": "Big Bear Wood Duck"
+  },
+  {
+   "id": "merriams_chipmunk_sb",
+   "sci": "Neotamias merriami",
+   "name": "Merriam's Chipmunk"
+  },
+  {
+   "id": "pygmy_nuthatch_sb",
+   "sci": "Sitta pygmaea",
+   "name": "Pygmy Nuthatch"
+  },
+  {
+   "id": "racoon_sb",
+   "sci": "Procyon lotor",
+   "name": "North American Raccoon"
+  },
+  {
+   "id": "red_breasted_sapsucker_sb",
+   "sci": "Sphyrapicus ruber",
+   "name": "Red-breasted Sapsucker"
+  },
+  {
+   "id": "red_tailed_hawk_sb",
+   "sci": "Buteo jamaicensis",
+   "name": "Red-Tailed Hawk"
+  },
+  {
+   "id": "san_diego_gopher_snake_sb",
+   "sci": "Pituophis catenifer",
+   "name": "San Diego Gopher Snake"
+  },
+  {
+   "id": "sharp_shinned_hawk_sb",
+   "sci": "Accipiter striatus",
+   "name": "Sharp-shinned Hawk"
+  },
+  {
+   "id": "cassins_finch",
+   "sci": "Haemorhous cassinii",
+   "name": "Cassin's Finch"
+  },
+  {
+   "id": "white_throated_swift_sb",
+   "sci": "Aeronautes saxatalis",
+   "name": "White-throated Swift"
+  },
+  {
+   "id": "southern_rubber_boa",
+   "sci": "Charina umbratica",
+   "name": "Southern Rubber Boa"
+  },
+  {
+   "id": "stellers_jay_sb",
+   "sci": "Cyanocitta stelleri",
+   "name": "Steller's Jay"
+  },
+  {
+   "id": "striped_skunk_sb",
+   "sci": "Mephitis mephitis",
+   "name": "Striped Skunk"
+  },
+  {
+   "id": "vriginia_opossum_sb",
+   "sci": "Didelphis virginiana",
+   "name": "Virginia Opossum"
+  },
+  {
+   "id": "western_bluebird_sb",
+   "sci": "Sialia mexicana",
+   "name": "Western Bluebird"
+  },
+  {
+   "id": "western_fence_lizard_sb",
+   "sci": "Sceloporus occidentalis",
+   "name": "Western Fence Lizard"
+  },
+  {
+   "id": "western_gray_squirrel_sb",
+   "sci": "Sciurus griseus",
+   "name": "Western Gray Squirrel"
+  },
+  {
+   "id": "western_gray_squirrel_sb_morph",
+   "sci": "Sciurus griseus",
+   "name": "Melanistic Gray Squirrel"
+  },
+  {
+   "id": "western_screech_owls_sb",
+   "sci": "Megascops kennicottii",
+   "name": "Western Screech-Owl"
+  },
+  {
+   "id": "western_screech_owls_sb_morph",
+   "sci": "Megascops kennicottii",
+   "name": "Leucistic Screech-Owl"
+  },
+  {
+   "id": "western_skink_sb",
+   "sci": "Plestiodon skiltonianus",
+   "name": "Western Skink"
+  },
+  {
+   "id": "white_headed_woodpecker_sb",
+   "sci": "Dryobates albolarvatus",
+   "name": "White-headed Woodpecker"
+  },
+  {
+   "id": "mountain_osprey",
+   "sci": "Pandion haliaetus",
+   "name": "Big Bear Osprey"
+  },
+  {
+   "id": "zone_tailed_hawk_sb",
+   "sci": "Buteo albonotatus",
+   "name": "Zone-Tailed Hawk"
+  },
+  {
+   "id": "bald_eagle",
+   "sci": "Haliaeetus leucocephalus",
+   "name": "Bald Eagle"
+  },
+  {
+   "id": "muscosa_yellow_legged_frog",
+   "sci": "Rana muscosa",
+   "name": "Southern Mountain Yellow-legged Frog"
+  },
+  {
+   "id": "western_toad_sb",
+   "sci": "Anaxyrus boreas",
+   "name": "Western Toad"
+  },
+  {
+   "id": "yellow_blotched_ensatina",
+   "sci": "Ensatina eschscholtzii",
+   "name": "Yellow-blotched Ensatina"
+  },
+  {
+   "id": "san_bernardino_salamander",
+   "sci": "Batrachoseps gabrieli",
+   "name": "San Gabriel Slender Salamander"
+  },
+  {
+   "id": "red_legged_frog_sb",
+   "sci": "Rana draytonii",
+   "name": "California Red-legged Frog"
+  },
+  {
+   "id": "baja_tree_frog_sb",
+   "sci": "Pseudacris hypochondriaca",
+   "name": "Baja California Tree Frog"
+  },
+  {
+   "id": "red_spotted_toad_sb",
+   "sci": "Anaxyrus punctatus",
+   "name": "Red-spotted Toad"
+  },
+  {
+   "id": "monterey_ensatina_sb",
+   "sci": "Ensatina eschscholtzii",
+   "name": "Monterey Ensatina"
+  },
+  {
+   "id": "sierra_nevada_cicada",
+   "sci": "Okanagana bella",
+   "name": "Sierra Nevada Cicada"
+  },
+  {
+   "id": "mountain_swallowtail_butterfly",
+   "sci": "Papilio rutulus",
+   "name": "Western Tiger Swallowtail"
+  },
+  {
+   "id": "ponderosa_pine_borer_beetle",
+   "sci": "Chalcophora angulicollis",
+   "name": "Western Sculptured Pine Borer"
+  },
+  {
+   "id": "western_yellowjacket",
+   "sci": "Vespula pensylvanica",
+   "name": "Western Yellowjacket"
+  },
+  {
+   "id": "giant_western_crane_fly",
+   "sci": "Holorusia hespera",
+   "name": "Giant Western Crane Fly"
+  },
+  {
+   "id": "san_bernardino_mountain_snail",
+   "sci": "Helminthoglypta petricola",
+   "name": "San Bernardino Mountain Snail"
+  },
+  {
+   "id": "western_pine_elfin_butterfly",
+   "sci": "Incisalia eryphon",
+   "name": "Western Pine Elfin Butterfly"
+  },
+  {
+   "id": "california_sister_butterfly",
+   "sci": "Adelpha californica",
+   "name": "California Sister Butterfly"
+  },
+  {
+   "id": "sierra_dome_spider",
+   "sci": "Neriene litigiosa",
+   "name": "Sierra Dome Spider"
+  },
+  {
+   "id": "northern_saw_whet_owl_sb",
+   "sci": "Aegolius acadicus",
+   "name": "Northern Saw-whet Owl"
+  },
+  {
+   "id": "common_poorwill_sb",
+   "sci": "Phalaenoptilus nuttallii",
+   "name": "Common Poorwill"
+  },
+  {
+   "id": "two_striped_garter_snake_sb",
+   "sci": "Thamnophis hammondii",
+   "name": "Two-Striped Garter Snake"
+  },
+  {
+   "id": "san_gorgonio_bighorn_ram",
+   "sci": "Ovis canadensis",
+   "name": "San Gorgonio Bighorn Monarch"
+  },
+  {
+   "id": "golden_eagle_sb",
+   "sci": "Aquila chrysaetos",
+   "name": "Transverse Golden Eagle"
+  },
+  {
+   "id": "big_eared_woodrat_sb",
+   "sci": "Neotoma macrotis",
+   "name": "Big-eared Woodrat"
+  },
+  {
+   "id": "pallid_bat_sb",
+   "sci": "Antrozous pallidus",
+   "name": "San Bernardino Pallid Bat"
+  },
+  {
+   "id": "california_myotis_sb",
+   "sci": "Myotis californicus",
+   "name": "California Myotis"
+  },
+  {
+   "id": "long_eared_myotis_sb",
+   "sci": "Myotis evotis",
+   "name": "Long-eared Myotis"
+  },
+  {
+   "id": "san_bernardino_deer_mouse",
+   "sci": "Peromyscus boylii",
+   "name": "Brush Deer Mouse"
+  },
+  {
+   "id": "williamson_sapsucker_sb",
+   "sci": "Sphyrapicus thyroideus",
+   "name": "Williamson's Sapsucker"
+  },
+  {
+   "id": "white_tailed_kite_sb",
+   "sci": "Elanus leucurus",
+   "name": "White-tailed Kite"
+  },
+  {
+   "id": "western_pipistrelle_sb",
+   "sci": "Parastrellus hesperus",
+   "name": "Canyon Bat"
+  },
+  {
+   "id": "ceanothus_silk_moth_sb",
+   "sci": "Hyalophora euryalus",
+   "name": "California Silk Moth"
+  }
+ ],
+ "coastal": [
+  {
+   "id": "white_lined_sphinx_moth_coastal",
+   "sci": "Hyles lineata",
+   "name": "White-lined Sphinx Moth"
+  },
+  {
+   "id": "western_polyphemus_moth",
+   "sci": "Antheraea polyphemus",
+   "name": "Western Polyphemus Moth"
+  },
+  {
+   "id": "american_badger_coastal",
+   "sci": "Taxidea taxus",
+   "name": "American Badger"
+  },
+  {
+   "id": "ringtail_coastal",
+   "sci": "Bassariscus astutus",
+   "name": "Ringtail"
+  },
+  {
+   "id": "western_harvest_mouse",
+   "sci": "Reithrodontomys megalotis",
+   "name": "Western Harvest Mouse"
+  },
+  {
+   "id": "california_vole",
+   "sci": "Microtus californicus",
+   "name": "California Vole"
+  },
+  {
+   "id": "western_red_bat",
+   "sci": "Lasiurus blossevillii",
+   "name": "Western Red Bat"
+  },
+  {
+   "id": "big_brown_bat_coastal",
+   "sci": "Eptesicus fuscus",
+   "name": "Big Brown Bat"
+  },
+  {
+   "id": "long_tailed_weasel",
+   "sci": "Neogale frenata",
+   "name": "Long-tailed Weasel"
+  },
+  {
+   "id": "dusky_footed_woodrat",
+   "sci": "Neotoma fuscipes",
+   "name": "Dusky-Footed Woodrat"
+  },
+  {
+   "id": "california_pocket_mouse",
+   "sci": "Chaetodipus californicus",
+   "name": "California Pocket Mouse"
+  },
+  {
+   "id": "san_diego_pocket_mouse",
+   "sci": "Chaetodipus fallax",
+   "name": "San Diego Pocket Mouse"
+  },
+  {
+   "id": "two_striped_garter_snake",
+   "sci": "Thamnophis hammondii",
+   "name": "Two-Striped Garter Snake"
+  },
+  {
+   "id": "two_striped_garter_snake_morph",
+   "sci": "Thamnophis hammondii",
+   "name": "Black Two-Striped Garter Snake"
+  },
+  {
+   "id": "california_legless_lizard",
+   "sci": "Anniella stebbinsi",
+   "name": "Southern California Legless Lizard"
+  },
+  {
+   "id": "baja_california_treefrog",
+   "sci": "Pseudacris hypochondriaca",
+   "name": "Baja California Treefrog"
+  },
+  {
+   "id": "western_skink_coastal",
+   "sci": "Plestiodon skiltonianus",
+   "name": "Western Skink"
+  },
+  {
+   "id": "coastal_rosy_boa",
+   "sci": "Lichanura orcutti",
+   "name": "Coastal Rosy Boa"
+  },
+  {
+   "id": "coast_patch_nosed_snake",
+   "sci": "Salvadora hexalepis",
+   "name": "Coast Patch-Nosed Snake"
+  },
+  {
+   "id": "california_striped_whipsnake",
+   "sci": "Masticophis lateralis",
+   "name": "California Striped Whipsnake"
+  },
+  {
+   "id": "black_bellied_slender_salamander",
+   "sci": "Batrachoseps nigriventris",
+   "name": "Black-Bellied Slender Salamander"
+  },
+  {
+   "id": "san_diego_banded_gecko",
+   "sci": "Coleonyx variegatus",
+   "name": "San Diego Banded Gecko"
+  },
+  {
+   "id": "crotchs_bumble_bee",
+   "sci": "Bombus crotchii",
+   "name": "Crotch's Bumble Bee"
+  },
+  {
+   "id": "tarantula_hawk_wasp",
+   "sci": "Pepsis grossa",
+   "name": "Tarantula Hawk Wasp"
+  },
+  {
+   "id": "california_harvester_ant",
+   "sci": "Pogonomyrmex californicus",
+   "name": "California Harvester Ant"
+  },
+  {
+   "id": "lorquins_admiral",
+   "sci": "Limenitis lorquini",
+   "name": "Lorquin's Admiral Butterfly"
+  },
+  {
+   "id": "pacific_cicada",
+   "sci": "Tibicinoides vanduzeei",
+   "name": "Pacific Cicada"
+  },
+  {
+   "id": "anise_swallowtail",
+   "sci": "Papilio zelicaon",
+   "name": "Anise Swallowtail Butterfly"
+  },
+  {
+   "id": "california_scrub_tarantula",
+   "sci": "Aphonopelma eutylenum",
+   "name": "California Scrub Tarantula"
+  },
+  {
+   "id": "jerusalem_cricket",
+   "sci": "Ammopelmatus fuscus",
+   "name": "Jerusalem Cricket"
+  },
+  {
+   "id": "california_mantis",
+   "sci": "Stagmomantis californica",
+   "name": "California Mantis"
+  },
+  {
+   "id": "fiery_skipper",
+   "sci": "Hylephila phyleus",
+   "name": "Fiery Skipper Butterfly"
+  },
+  {
+   "id": "pacific_gray_whale",
+   "sci": "Eschrichtius robustus",
+   "name": "Pacific Gray Whale"
+  },
+  {
+   "id": "bottlenose_dolphin",
+   "sci": "Tursiops truncatus",
+   "name": "Bottlenose Dolphin"
+  },
+  {
+   "id": "harbor_seal",
+   "sci": "Phoca vitulina",
+   "name": "Pacific Harbor Seal"
+  },
+  {
+   "id": "pacific_sea_otter",
+   "sci": "Enhydra lutris",
+   "name": "Southern Sea Otter"
+  },
+  {
+   "id": "pacific_sea_otter_morph",
+   "sci": "Enhydra lutris",
+   "name": "Frosted Sea Otter"
+  },
+  {
+   "id": "california_sea_lion",
+   "sci": "Zalophus californianus",
+   "name": "California Sea Lion"
+  },
+  {
+   "id": "ochre_sea_star",
+   "sci": "Pisaster ochraceus",
+   "name": "Ochre Sea Star"
+  },
+  {
+   "id": "california_brown_pelican",
+   "sci": "Pelecanus occidentalis",
+   "name": "California Brown Pelican"
+  },
+  {
+   "id": "california_condor_coastal",
+   "sci": "Gymnogyps californianus",
+   "name": "Big Sur California Condor"
+  },
+  {
+   "id": "peregrine_falcon_coastal",
+   "sci": "Falco peregrinus",
+   "name": "Coastal Peregrine Falcon"
+  },
+  {
+   "id": "coastal_osprey",
+   "sci": "Pandion haliaetus",
+   "name": "Coastal Osprey"
+  },
+  {
+   "id": "great_blue_heron",
+   "sci": "Ardea herodias",
+   "name": "Great Blue Heron"
+  },
+  {
+   "id": "annas_hummingbird_coastal",
+   "sci": "Calypte anna",
+   "name": "Anna's Hummingbird"
+  },
+  {
+   "id": "snowy_plover",
+   "sci": "Charadrius nivosus",
+   "name": "Western Snowy Plover"
+  },
+  {
+   "id": "western_gull",
+   "sci": "Larus occidentalis",
+   "name": "Western Gull"
+  },
+  {
+   "id": "brant_goose",
+   "sci": "Branta bernicla",
+   "name": "Brant Goose"
+  },
+  {
+   "id": "burrowing_owl_coastal",
+   "sci": "Athene cunicularia",
+   "name": "Coastal Burrowing Owl"
+  },
+  {
+   "id": "coyote_coastal",
+   "sci": "Canis latrans",
+   "name": "Coastal Bluff Coyote"
+  },
+  {
+   "id": "bobcat_coastal",
+   "sci": "Lynx rufus",
+   "name": "Coastal Bobcat"
+  },
+  {
+   "id": "mule_deer_coastal",
+   "sci": "Odocoileus hemionus",
+   "name": "Southern California Mule Deer"
+  },
+  {
+   "id": "gray_fox_coastal",
+   "sci": "Urocyon cinereoargenteus",
+   "name": "Coastal Gray Fox"
+  },
+  {
+   "id": "rattlesnake_coastal",
+   "sci": "Crotalus helleri",
+   "name": "Southern Pacific Rattlesnake"
+  },
+  {
+   "id": "alligator_lizard_coastal",
+   "sci": "Elgaria multicarinata",
+   "name": "San Diego Alligator Lizard"
+  },
+  {
+   "id": "fence_lizard_coastal",
+   "sci": "Sceloporus occidentalis",
+   "name": "Western Fence Lizard"
+  },
+  {
+   "id": "brush_rabbit_coastal",
+   "sci": "Sylvilagus bachmani",
+   "name": "California Brush Rabbit"
+  },
+  {
+   "id": "monarch_butterfly",
+   "sci": "Danaus plexippus",
+   "name": "Monarch Butterfly"
+  },
+  {
+   "id": "ca_ground_squirrel",
+   "sci": "Otospermophilus beecheyi",
+   "name": "California Ground Squirrel"
+  },
+  {
+   "id": "giant_green_sea_anemone",
+   "sci": "Anthopleura xanthogrammica",
+   "name": "Giant Green Sea Anemone"
+  },
+  {
+   "id": "california_towhee",
+   "sci": "Melozone crissalis",
+   "name": "California Towhee"
+  },
+  {
+   "id": "acorn_woodpecker",
+   "sci": "Melanerpes formicivorus",
+   "name": "Acorn Woodpecker"
+  },
+  {
+   "id": "striped_shore_crab",
+   "sci": "Pachygrapsus crassipes",
+   "name": "Striped Shore Crab"
+  },
+  {
+   "id": "california_mussel",
+   "sci": "Mytilus californianus",
+   "name": "California Mussel"
+  },
+  {
+   "id": "common_raven",
+   "sci": "Corvus corax",
+   "name": "Common Raven"
+  },
+  {
+   "id": "california_sea_hare",
+   "sci": "Aplysia californica",
+   "name": "California Sea Hare"
+  },
+  {
+   "id": "heermanns_gull",
+   "sci": "Larus heermanni",
+   "name": "Heermann's Gull"
+  },
+  {
+   "id": "san_diego_horned_lizard_coastal",
+   "sci": "Phrynosoma blainvillii",
+   "name": "San Diego Horned Lizard"
+  },
+  {
+   "id": "california_kingsnake",
+   "sci": "Lampropeltis californiae",
+   "name": "California Kingsnake"
+  },
+  {
+   "id": "california_kingsnake_morph",
+   "sci": "Lampropeltis californiae",
+   "name": "Striped Phase Kingsnake"
+  },
+  {
+   "id": "caspian_tern",
+   "sci": "Hydroprogne caspia",
+   "name": "Caspian Tern"
+  },
+  {
+   "id": "northern_harrier_coastal",
+   "sci": "Circus hudsonius",
+   "name": "Northern Harrier"
+  },
+  {
+   "id": "giant_keyhole_limpet",
+   "sci": "Megathura crenulata",
+   "name": "Giant Keyhole Limpet"
+  },
+  {
+   "id": "long_billed_curlew",
+   "sci": "Numenius americanus",
+   "name": "Long-Billed Curlew"
+  },
+  {
+   "id": "red_tailed_hawk_coastal",
+   "sci": "Buteo jamaicensis",
+   "name": "Red-Tailed Hawk"
+  },
+  {
+   "id": "red_tailed_hawk_coastal_morph",
+   "sci": "Buteo jamaicensis",
+   "name": "Dark Morph Red-tailed Hawk"
+  },
+  {
+   "id": "california_scrub_jay",
+   "sci": "Aphelocoma californica",
+   "name": "California Scrub-Jay"
+  },
+  {
+   "id": "common_dolphin",
+   "sci": "Delphinus delphis",
+   "name": "Short-Beaked Common Dolphin"
+  },
+  {
+   "id": "striped_skunk_coastal",
+   "sci": "Mephitis mephitis",
+   "name": "Striped Skunk"
+  },
+  {
+   "id": "allens_hummingbird",
+   "sci": "Selasphorus sasin",
+   "name": "Allen's Hummingbird"
+  },
+  {
+   "id": "transient_orca",
+   "sci": "Orcinus rectipinnus",
+   "name": "Transient Orca"
+  },
+  {
+   "id": "wandering_garter_snake_coastal",
+   "sci": "Thamnophis elegans",
+   "name": "Coast Garter Snake"
+  },
+  {
+   "id": "western_spotted_skunk",
+   "sci": "Spilogale gracilis",
+   "name": "Western Spotted Skunk"
+  },
+  {
+   "id": "california_newt",
+   "sci": "Taricha torosa",
+   "name": "California Newt"
+  },
+  {
+   "id": "arboreal_salamander",
+   "sci": "Aneides lugubris",
+   "name": "Arboreal Salamander"
+  },
+  {
+   "id": "garden_slender_salamander",
+   "sci": "Batrachoseps major",
+   "name": "Garden Slender Salamander"
+  },
+  {
+   "id": "california_dogface_butterfly",
+   "sci": "Zerene eurydice",
+   "name": "California Dogface Butterfly"
+  },
+  {
+   "id": "california_giant_salamander",
+   "sci": "Dicamptodon ensatus",
+   "name": "California Giant Salamander"
+  },
+  {
+   "id": "chestnut_backed_chickadee",
+   "sci": "Poecile rufescens",
+   "name": "Chestnut-backed Chickadee"
+  },
+  {
+   "id": "black_bear_coastal",
+   "sci": "Ursus americanus",
+   "name": "Santa Lucia Black Bear"
+  },
+  {
+   "id": "pigeon_guillemot",
+   "sci": "Cepphus columba",
+   "name": "Pigeon Guillemot"
+  },
+  {
+   "id": "aquatic_garter_snake_coastal",
+   "sci": "Thamnophis atratus",
+   "name": "Aquatic Garter Snake"
+  },
+  {
+   "id": "ensatina_coastal",
+   "sci": "Ensatina eschscholtzii",
+   "name": "Ensatina"
+  },
+  {
+   "id": "western_toad_coastal",
+   "sci": "Anaxyrus boreas",
+   "name": "Western Toad"
+  },
+  {
+   "id": "rough_skinned_newt_coastal",
+   "sci": "Taricha granulosa",
+   "name": "Rough-skinned Newt"
+  },
+  {
+   "id": "california_red_legged_frog",
+   "sci": "Rana draytonii",
+   "name": "California Red-legged Frog"
+  },
+  {
+   "id": "santa_cruz_black_salamander",
+   "sci": "Aneides niger",
+   "name": "Santa Cruz Black Salamander"
+  }
+ ],
+ "mojave_desert": [
+  {
+   "id": "desert_cottontail",
+   "sci": "Sylvilagus audubonii",
+   "name": "Desert Cottontail"
+  },
+  {
+   "id": "white_lined_sphinx_moth_mojave",
+   "sci": "Hyles lineata",
+   "name": "White-lined Sphinx Moth"
+  },
+  {
+   "id": "five_spotted_hawk_moth",
+   "sci": "Manduca quinquemaculata",
+   "name": "Five-Spotted Hawk Moth"
+  },
+  {
+   "id": "shovel_nosed_snake_mojave",
+   "sci": "Sonora occipitalis",
+   "name": "Western Shovel-nosed Snake"
+  },
+  {
+   "id": "red_spotted_desert_toad",
+   "sci": "Anaxyrus punctatus",
+   "name": "Red-spotted Desert Toad"
+  },
+  {
+   "id": "mojave_green_rattlesnake",
+   "sci": "Crotalus scutulatus",
+   "name": "Mojave Green Rattlesnake"
+  },
+  {
+   "id": "desert_tortoise",
+   "sci": "Gopherus agassizii",
+   "name": "Desert Tortoise"
+  },
+  {
+   "id": "desert_bighorn_mojave_morph",
+   "sci": "Ovis canadensis",
+   "name": "Full-Curl Ram"
+  },
+  {
+   "id": "greater_roadrunner",
+   "sci": "Geococcyx californianus",
+   "name": "Greater Roadrunner"
+  },
+  {
+   "id": "chuckwalla",
+   "sci": "Sauromalus ater",
+   "name": "Chuckwalla"
+  },
+  {
+   "id": "kit_fox",
+   "sci": "Vulpes macrotis",
+   "name": "Kit Fox"
+  },
+  {
+   "id": "burrowing_owl",
+   "sci": "Athene cunicularia",
+   "name": "Burrowing Owl"
+  },
+  {
+   "id": "bobcat_mojave",
+   "sci": "Lynx rufus",
+   "name": "Bobcat"
+  },
+  {
+   "id": "coyote_mojave",
+   "sci": "Canis latrans",
+   "name": "Coyote"
+  },
+  {
+   "id": "ringtail_mojave",
+   "sci": "Bassariscus astutus",
+   "name": "Ringtail"
+  },
+  {
+   "id": "jackrabbit",
+   "sci": "Lepus californicus",
+   "name": "Black-tailed Jackrabbit"
+  },
+  {
+   "id": "kangaroo_rat",
+   "sci": "Dipodomys merriami",
+   "name": "Merriam's Kangaroo Rat"
+  },
+  {
+   "id": "antelope_squirrel",
+   "sci": "Ammospermophilus leucurus",
+   "name": "White-tailed Antelope Squirrel"
+  },
+  {
+   "id": "desert_packrat",
+   "sci": "Neotoma lepida",
+   "name": "Desert Packrat"
+  },
+  {
+   "id": "pallid_bat",
+   "sci": "Antrozous pallidus",
+   "name": "Pallid Bat"
+  },
+  {
+   "id": "american_badger_mojave",
+   "sci": "Taxidea taxus",
+   "name": "American Badger"
+  },
+  {
+   "id": "sidewinder",
+   "sci": "Crotalus cerastes",
+   "name": "Sidewinder Rattlesnake"
+  },
+  {
+   "id": "sidewinder_morph",
+   "sci": "Crotalus cerastes",
+   "name": "Red Sand Sidewinder"
+  },
+  {
+   "id": "desert_iguana",
+   "sci": "Dipsosaurus dorsalis",
+   "name": "Desert Iguana"
+  },
+  {
+   "id": "fringe_toed_lizard",
+   "sci": "Uma scoparia",
+   "name": "Mojave Fringe-toed Lizard"
+  },
+  {
+   "id": "zebra_tailed_lizard",
+   "sci": "Callisaurus draconoides",
+   "name": "Zebra-tailed Lizard"
+  },
+  {
+   "id": "cactus_wren",
+   "sci": "Campylorhynchus brunneicapillus",
+   "name": "Cactus Wren"
+  },
+  {
+   "id": "gambels_quail",
+   "sci": "Callipepla gambelii",
+   "name": "Gambel's Quail"
+  },
+  {
+   "id": "golden_eagle",
+   "sci": "Aquila chrysaetos",
+   "name": "Golden Eagle"
+  },
+  {
+   "id": "phainopepla",
+   "sci": "Phainopepla nitens",
+   "name": "Phainopepla"
+  },
+  {
+   "id": "mojave_tarantula",
+   "sci": "Aphonopelma iodius",
+   "name": "Mojave Desert Tarantula"
+  },
+  {
+   "id": "giant_hairy_scorpion",
+   "sci": "Hadrurus arizonensis",
+   "name": "Giant Desert Hairy Scorpion"
+  },
+  {
+   "id": "bark_scorpion",
+   "sci": "Centruroides sculpturatus",
+   "name": "Arizona Bark Scorpion"
+  },
+  {
+   "id": "dune_scorpion_mojave",
+   "sci": "Smeringurus mesaensis",
+   "name": "Dune Scorpion"
+  },
+  {
+   "id": "grasshopper_mouse",
+   "sci": "Onychomys torridus",
+   "name": "Southern Grasshopper Mouse"
+  },
+  {
+   "id": "california_thrasher_mojave",
+   "sci": "Toxostoma redivivum",
+   "name": "California Thrasher"
+  },
+  {
+   "id": "canyon_bat",
+   "sci": "Parastrellus hesperus",
+   "name": "Canyon Bat"
+  },
+  {
+   "id": "mastiff_bat",
+   "sci": "Eumops perotis",
+   "name": "Western Mastiff Bat"
+  },
+  {
+   "id": "pocket_mouse",
+   "sci": "Chaetodipus penicillatus",
+   "name": "Desert Pocket Mouse"
+  },
+  {
+   "id": "horned_lizard",
+   "sci": "Phrynosoma platyrhinos",
+   "name": "Desert Horned Lizard"
+  },
+  {
+   "id": "speckled_rattlesnake",
+   "sci": "Crotalus pyrrhus",
+   "name": "Speckled Rattlesnake"
+  },
+  {
+   "id": "rosy_boa",
+   "sci": "Lichanura orcutti",
+   "name": "Desert Rosy Boa"
+  },
+  {
+   "id": "leopard_lizard",
+   "sci": "Gambelia wislizenii",
+   "name": "Long-nosed Leopard Lizard"
+  },
+  {
+   "id": "night_lizard",
+   "sci": "Xantusia vigilis",
+   "name": "Desert Night Lizard"
+  },
+  {
+   "id": "glossy_snake",
+   "sci": "Arizona elegans",
+   "name": "Glossy Snake"
+  },
+  {
+   "id": "costas_hummingbird",
+   "sci": "Calypte costae",
+   "name": "Costa's Hummingbird"
+  },
+  {
+   "id": "loggerhead_shrike",
+   "sci": "Lanius ludovicianus",
+   "name": "Loggerhead Shrike"
+  },
+  {
+   "id": "verdin",
+   "sci": "Auriparus flaviceps",
+   "name": "Verdin"
+  },
+  {
+   "id": "lecontes_thrasher",
+   "sci": "Toxostoma lecontei",
+   "name": "LeConte's Thrasher"
+  },
+  {
+   "id": "ladder_backed_woodpecker",
+   "sci": "Dryobates scalaris",
+   "name": "Ladder-backed Woodpecker"
+  },
+  {
+   "id": "camel_spider",
+   "sci": "Eremobates mormonus",
+   "name": "Camel Spider"
+  },
+  {
+   "id": "tarantula_hawk",
+   "sci": "Pepsis grossa",
+   "name": "Desert Tarantula Hawk"
+  },
+  {
+   "id": "ironclad_beetle",
+   "sci": "Asbolus verrucosus",
+   "name": "Desert Ironclad Beetle"
+  },
+  {
+   "id": "prairie_falcon",
+   "sci": "Falco mexicanus",
+   "name": "Prairie Falcon"
+  },
+  {
+   "id": "common_poorwill",
+   "sci": "Phalaenoptilus nuttallii",
+   "name": "Common Poorwill"
+  },
+  {
+   "id": "elf_owl",
+   "sci": "Micrathene whitneyi",
+   "name": "Elf Owl"
+  },
+  {
+   "id": "lesser_nighthawk",
+   "sci": "Chordeiles acutipennis",
+   "name": "Lesser Nighthawk"
+  },
+  {
+   "id": "barn_owl",
+   "sci": "Tyto furcata",
+   "name": "American Barn Owl"
+  },
+  {
+   "id": "northern_mockingbird",
+   "sci": "Mimus polyglottos",
+   "name": "Northern Mockingbird"
+  },
+  {
+   "id": "scotts_oriole",
+   "sci": "Icterus parisorum",
+   "name": "Scott's Oriole"
+  },
+  {
+   "id": "desert_kangaroo_rat_mojave",
+   "sci": "Dipodomys deserti",
+   "name": "Desert Kangaroo Rat"
+  },
+  {
+   "id": "pinyon_jay_mojave",
+   "sci": "Gymnorhinus cyanocephalus",
+   "name": "Pinyon Jay"
+  },
+  {
+   "id": "baja_tree_frog",
+   "sci": "Pseudacris hypochondriaca",
+   "name": "Baja California Tree Frog"
+  },
+  {
+   "id": "woodhouses_toad",
+   "sci": "Anaxyrus woodhousii",
+   "name": "Woodhouse's Toad"
+  },
+  {
+   "id": "cactus_mouse",
+   "sci": "Peromyscus eremicus",
+   "name": "Cactus Mouse"
+  },
+  {
+   "id": "spotted_bat",
+   "sci": "Euderma maculatum",
+   "name": "Spotted Bat"
+  },
+  {
+   "id": "black_throated_sparrow",
+   "sci": "Amphispiza bilineata",
+   "name": "Black-throated Sparrow"
+  },
+  {
+   "id": "giant_desert_centipede",
+   "sci": "Scolopendra polymorpha",
+   "name": "Common Desert Centipede"
+  },
+  {
+   "id": "long_tailed_brush_lizard_mojave",
+   "sci": "Urosaurus graciosus",
+   "name": "Long-tailed Brush Lizard"
+  },
+  {
+   "id": "desert_jerusalem_cricket",
+   "sci": "Ammopelmatus kelsoensis",
+   "name": "Kelso Dunes Jerusalem Cricket"
+  },
+  {
+   "id": "desert_banded_gecko",
+   "sci": "Coleonyx variegatus",
+   "name": "Desert Banded Gecko"
+  },
+  {
+   "id": "spotted_leaf_nosed_snake",
+   "sci": "Phyllorhynchus decurtatus",
+   "name": "Spotted Leaf-nosed Snake"
+  },
+  {
+   "id": "california_trapdoor_spider",
+   "sci": "Bothriocyrtum californicum",
+   "name": "California Trapdoor Spider"
+  },
+  {
+   "id": "vivid_dancer_damselfly",
+   "sci": "Argia vivida",
+   "name": "Vivid Dancer Damselfly"
+  },
+  {
+   "id": "common_raven_mojave",
+   "sci": "Corvus corax",
+   "name": "Common Raven"
+  },
+  {
+   "id": "mourning_dove_mojave",
+   "sci": "Zenaida macroura",
+   "name": "Mourning Dove"
+  },
+  {
+   "id": "rock_wren_mojave",
+   "sci": "Salpinctes obsoletus",
+   "name": "Rock Wren"
+  },
+  {
+   "id": "round_tailed_ground_squirrel",
+   "sci": "Xerospermophilus tereticaudus",
+   "name": "Round-tailed Ground Squirrel"
+  },
+  {
+   "id": "pinacate_beetle",
+   "sci": "Eleodes obscura",
+   "name": "Pinacate Beetle"
+  },
+  {
+   "id": "great_plains_toad",
+   "sci": "Anaxyrus cognatus",
+   "name": "Great Plains Toad"
+  },
+  {
+   "id": "tiger_whiptail",
+   "sci": "Aspidoscelis tigris",
+   "name": "Tiger Whiptail"
+  },
+  {
+   "id": "desert_spiny_lizard",
+   "sci": "Sceloporus magister",
+   "name": "Desert Spiny Lizard"
+  },
+  {
+   "id": "great_basin_collared_lizard",
+   "sci": "Crotaphytus bicinctores",
+   "name": "Great Basin Collared Lizard"
+  },
+  {
+   "id": "red_coachwhip",
+   "sci": "Masticophis flagellum",
+   "name": "Red Coachwhip"
+  },
+  {
+   "id": "long_nosed_snake",
+   "sci": "Rhinocheilus lecontei",
+   "name": "Long-nosed Snake"
+  },
+  {
+   "id": "black_tailed_gnatcatcher",
+   "sci": "Polioptila melanura",
+   "name": "Black-tailed Gnatcatcher"
+  },
+  {
+   "id": "says_phoebe",
+   "sci": "Sayornis saya",
+   "name": "Say's Phoebe"
+  },
+  {
+   "id": "ash_throated_flycatcher",
+   "sci": "Myiarchus cinerascens",
+   "name": "Ash-throated Flycatcher"
+  },
+  {
+   "id": "canyon_wren_mojave",
+   "sci": "Catherpes mexicanus",
+   "name": "Canyon Wren"
+  },
+  {
+   "id": "canyon_mouse",
+   "sci": "Peromyscus crinitus",
+   "name": "Canyon Mouse"
+  },
+  {
+   "id": "panamint_kangaroo_rat",
+   "sci": "Dipodomys panamintinus",
+   "name": "Panamint Kangaroo Rat"
+  },
+  {
+   "id": "desert_harvester_ant",
+   "sci": "Veromessor pergandei",
+   "name": "Desert Harvester Ant"
+  },
+  {
+   "id": "queen_butterfly",
+   "sci": "Danaus gilippus",
+   "name": "Queen"
+  },
+  {
+   "id": "side_blotched_lizard",
+   "sci": "Uta stansburiana",
+   "name": "Common Side-blotched Lizard"
+  },
+  {
+   "id": "western_black_widow",
+   "sci": "Latrodectus hesperus",
+   "name": "Western Black Widow"
+  },
+  {
+   "id": "desert_blister_beetle",
+   "sci": "Lytta magister",
+   "name": "Master Blister Beetle"
+  },
+  {
+   "id": "crissal_thrasher",
+   "sci": "Toxostoma crissale",
+   "name": "Crissal Thrasher"
+  },
+  {
+   "id": "townsends_big_eared_bat",
+   "sci": "Corynorhinus townsendii",
+   "name": "Townsend's Big-eared Bat"
+  },
+  {
+   "id": "mountain_bluebird_mojave",
+   "sci": "Sialia currucoides",
+   "name": "Mountain Bluebird"
+  },
+  {
+   "id": "desert_spider_beetle",
+   "sci": "Cysteodemus armatus",
+   "name": "Desert Spider Beetle"
+  }
+ ],
+ "sierra_nevada": [
+  {
+   "id": "white_lined_sphinx_moth_sierra",
+   "sci": "Hyles lineata",
+   "name": "White-lined Sphinx Moth"
+  },
+  {
+   "id": "sierra_nevada_ensatina",
+   "sci": "Ensatina eschscholtzii",
+   "name": "Sierra Nevada Ensatina"
+  },
+  {
+   "id": "black_toad_sierra",
+   "sci": "Anaxyrus exsul",
+   "name": "Black Toad"
+  },
+  {
+   "id": "mount_lyell_salamander",
+   "sci": "Hydromantes platycephalus",
+   "name": "Mount Lyell Salamander"
+  },
+  {
+   "id": "northern_pacific_rattlesnake_sierra",
+   "sci": "Crotalus oreganus",
+   "name": "Northern Pacific Rattlesnake"
+  },
+  {
+   "id": "sierra_alligator_lizard",
+   "sci": "Elgaria coerulea",
+   "name": "Sierra Alligator Lizard"
+  },
+  {
+   "id": "california_mountain_kingsnake_sierra",
+   "sci": "Lampropeltis zonata",
+   "name": "California Mountain Kingsnake"
+  },
+  {
+   "id": "alpine_sagebrush_lizard",
+   "sci": "Sceloporus graciosus",
+   "name": "Alpine Sagebrush Lizard"
+  },
+  {
+   "id": "sierra_mountain_garter_snake",
+   "sci": "Thamnophis elegans",
+   "name": "Sierra Mountain Garter Snake"
+  },
+  {
+   "id": "american_dipper_sierra",
+   "sci": "Cinclus mexicanus",
+   "name": "American Dipper"
+  },
+  {
+   "id": "northern_goshawk_sierra",
+   "sci": "Astur atricapillus",
+   "name": "American Goshawk"
+  },
+  {
+   "id": "sierra_bald_eagle",
+   "sci": "Haliaeetus leucocephalus",
+   "name": "Sierra Bald Eagle"
+  },
+  {
+   "id": "acorn_wood_pecker_sierra",
+   "sci": "Melanerpes formicivorus",
+   "name": "Acorn Woodpecker"
+  },
+  {
+   "id": "american_kestrel_sierra",
+   "sci": "Falco sparverius",
+   "name": "American Kestrel"
+  },
+  {
+   "id": "american_pika_sierra",
+   "sci": "Ochotona princeps",
+   "name": "American Pika"
+  },
+  {
+   "id": "badger_sierra",
+   "sci": "Taxidea taxus",
+   "name": "Badger"
+  },
+  {
+   "id": "band_tailed_pigeon_sierra",
+   "sci": "Patagioenas fasciata",
+   "name": "Band-tailed Pigeon"
+  },
+  {
+   "id": "beldings_ground_squirrel_sierra",
+   "sci": "Urocitellus beldingi",
+   "name": "Belding's Ground Squirrel"
+  },
+  {
+   "id": "big_brown_bat_sierra",
+   "sci": "Eptesicus fuscus",
+   "name": "Big Brown Bat"
+  },
+  {
+   "id": "black_tailed_jackrabbit_sierra",
+   "sci": "Lepus californicus",
+   "name": "Black-tailed Jackrabbit"
+  },
+  {
+   "id": "black_bear",
+   "sci": "Ursus americanus",
+   "name": "Black Bear"
+  },
+  {
+   "id": "black_bear_morph",
+   "sci": "Ursus americanus",
+   "name": "Blonde Phase Black Bear"
+  },
+  {
+   "id": "blainvilles_horned_lizard",
+   "sci": "Phrynosoma blainvillii",
+   "name": "Blainville's Horned Lizard"
+  },
+  {
+   "id": "bobcat_sierra",
+   "sci": "Lynx rufus",
+   "name": "Bobcat"
+  },
+  {
+   "id": "bobcat_sierra_morph",
+   "sci": "Lynx rufus",
+   "name": "Melanistic Bobcat"
+  },
+  {
+   "id": "douglas_squirrel_sierra",
+   "sci": "Tamiasciurus douglasii",
+   "name": "Douglas Squirrel"
+  },
+  {
+   "id": "california_ground_squirrel_sierra",
+   "sci": "Otospermophilus beecheyi",
+   "name": "California Ground Squirrel"
+  },
+  {
+   "id": "california_quail_sierra",
+   "sci": "Callipepla californica",
+   "name": "California Quail"
+  },
+  {
+   "id": "mountain_yellow_legged_frog_sierra",
+   "sci": "Rana muscosa",
+   "name": "Mountain Yellow-legged Frog"
+  },
+  {
+   "id": "clarks_nutcracker_sierra",
+   "sci": "Nucifraga columbiana",
+   "name": "Clark's Nutcracker"
+  },
+  {
+   "id": "coopers_hawk_sierra",
+   "sci": "Accipiter cooperii",
+   "name": "Cooper's Hawk"
+  },
+  {
+   "id": "coyote_sierra",
+   "sci": "Canis latrans",
+   "name": "Coyote"
+  },
+  {
+   "id": "dark_eyed_junco_sierra",
+   "sci": "Junco hyemalis",
+   "name": "Dark-eyed Junco"
+  },
+  {
+   "id": "white_tailed_jackrabbit_sierra",
+   "sci": "Lepus townsendii",
+   "name": "White-tailed Jackrabbit"
+  },
+  {
+   "id": "humboldts_flying_squirrel_sierra",
+   "sci": "Glaucomys oregonensis",
+   "name": "Humboldt's Flying Squirrel"
+  },
+  {
+   "id": "golden_mantled_ground_squirrel_sierra",
+   "sci": "Callospermophilus lateralis",
+   "name": "Sierra Nevada Golden-mantled Ground Squirrel"
+  },
+  {
+   "id": "gray_fox_sierra",
+   "sci": "Urocyon cinereoargenteus",
+   "name": "Gray Fox"
+  },
+  {
+   "id": "great_grey_owl",
+   "sci": "Strix nebulosa",
+   "name": "Great Gray Owl (Yosemite)"
+  },
+  {
+   "id": "great_horned_owl_01_sierra",
+   "sci": "Bubo virginianus",
+   "name": "Great Horned Owl"
+  },
+  {
+   "id": "hermit_thrush_sierra",
+   "sci": "Catharus guttatus",
+   "name": "Hermit Thrush"
+  },
+  {
+   "id": "lodgepole_chipmunk_sierra",
+   "sci": "Neotamias speciosus",
+   "name": "Lodgepole Chipmunk"
+  },
+  {
+   "id": "mountain_beaver",
+   "sci": "Aplodontia rufa",
+   "name": "Mountain Beaver"
+  },
+  {
+   "id": "mountain_chickadee_sierra",
+   "sci": "Poecile gambeli",
+   "name": "Mountain Chickadee"
+  },
+  {
+   "id": "mountain_quail_sierra",
+   "sci": "Oreortyx pictus",
+   "name": "Mountain Quail"
+  },
+  {
+   "id": "mule_deer_sierra",
+   "sci": "Odocoileus hemionus",
+   "name": "Mule Deer"
+  },
+  {
+   "id": "northern_harrier_sierra",
+   "sci": "Circus hudsonius",
+   "name": "Northern Harrier"
+  },
+  {
+   "id": "pacific_fisher",
+   "sci": "Pekania pennanti",
+   "name": "Pacific Fisher"
+  },
+  {
+   "id": "peregrine_falcon",
+   "sci": "Falco peregrinus",
+   "name": "Peregrine Falcon"
+  },
+  {
+   "id": "pine_marten",
+   "sci": "Martes caurina",
+   "name": "Pacific Pine Marten"
+  },
+  {
+   "id": "porcupine_sierra",
+   "sci": "Erethizon dorsatum",
+   "name": "North American Porcupine"
+  },
+  {
+   "id": "pygmy_nuthatch_sierra",
+   "sci": "Sitta pygmaea",
+   "name": "Pygmy Nuthatch"
+  },
+  {
+   "id": "racoon_sierra",
+   "sci": "Procyon lotor",
+   "name": "North American Raccoon"
+  },
+  {
+   "id": "red_breasted_sapsucker_sierra",
+   "sci": "Sphyrapicus ruber",
+   "name": "Red-breasted Sapsucker"
+  },
+  {
+   "id": "red_tailed_hawk_sierra",
+   "sci": "Buteo jamaicensis",
+   "name": "Red-Tailed Hawk"
+  },
+  {
+   "id": "ringtail_sierra",
+   "sci": "Bassariscus astutus",
+   "name": "Ringtail"
+  },
+  {
+   "id": "san_diego_gopher_snake_sierra",
+   "sci": "Pituophis catenifer",
+   "name": "Pacific Gopher Snake"
+  },
+  {
+   "id": "sharp_shinned_hawk_sierra",
+   "sci": "Accipiter striatus",
+   "name": "Sharp-shinned Hawk"
+  },
+  {
+   "id": "sierra_nevada_red_fox",
+   "sci": "Vulpes vulpes",
+   "name": "Sierra Nevada Red Fox"
+  },
+  {
+   "id": "sierra_nevada_red_fox_morph",
+   "sci": "Vulpes vulpes",
+   "name": "Cross Phase Red Fox"
+  },
+  {
+   "id": "sooty_grouse_sierra",
+   "sci": "Dendragapus fuliginosus",
+   "name": "Sooty Grouse"
+  },
+  {
+   "id": "southern_alligator_lizard_sierra",
+   "sci": "Elgaria multicarinata",
+   "name": "Southern Alligator Lizard"
+  },
+  {
+   "id": "northern_rubber_boa_sierra",
+   "sci": "Charina bottae",
+   "name": "Northern Rubber Boa"
+  },
+  {
+   "id": "stellers_jay_sierra",
+   "sci": "Cyanocitta stelleri",
+   "name": "Steller's Jay"
+  },
+  {
+   "id": "striped_skunk_sierra",
+   "sci": "Mephitis mephitis",
+   "name": "Striped Skunk"
+  },
+  {
+   "id": "vriginia_opossum_sierra",
+   "sci": "Didelphis virginiana",
+   "name": "Virginia Opossum"
+  },
+  {
+   "id": "western_bluebird_sierra",
+   "sci": "Sialia mexicana",
+   "name": "Western Bluebird"
+  },
+  {
+   "id": "western_fence_lizard_sierra",
+   "sci": "Sceloporus occidentalis",
+   "name": "Western Fence Lizard"
+  },
+  {
+   "id": "western_gray_squirrel_sierra",
+   "sci": "Sciurus griseus",
+   "name": "Western Gray Squirrel"
+  },
+  {
+   "id": "western_screech_owls_sierra",
+   "sci": "Megascops kennicottii",
+   "name": "Western Screech-Owl"
+  },
+  {
+   "id": "western_skink_sierra",
+   "sci": "Plestiodon skiltonianus",
+   "name": "Western Skink"
+  },
+  {
+   "id": "white_headed_woodpecker_sierra",
+   "sci": "Dryobates albolarvatus",
+   "name": "White-headed Woodpecker"
+  },
+  {
+   "id": "yellow_bellied_marmot",
+   "sci": "Marmota flaviventris",
+   "name": "Yellow-bellied Marmot"
+  },
+  {
+   "id": "yosemite_osprey",
+   "sci": "Pandion haliaetus",
+   "name": "Yosemite Osprey"
+  },
+  {
+   "id": "golden_eagle_sierra",
+   "sci": "Aquila chrysaetos",
+   "name": "Golden Eagle"
+  },
+  {
+   "id": "sierra_yellow_legged_frog",
+   "sci": "Rana sierrae",
+   "name": "Sierra Nevada Yellow-legged Frog"
+  },
+  {
+   "id": "yosemite_toad",
+   "sci": "Anaxyrus canorus",
+   "name": "Yosemite Toad"
+  },
+  {
+   "id": "foothill_yellow_legged_frog",
+   "sci": "Rana boylii",
+   "name": "Foothill Yellow-legged Frog"
+  },
+  {
+   "id": "limestone_salamander",
+   "sci": "Hydromantes brunus",
+   "name": "Limestone Salamander"
+  },
+  {
+   "id": "sierra_newt",
+   "sci": "Taricha sierrae",
+   "name": "Sierra Newt"
+  },
+  {
+   "id": "sierran_tree_frog",
+   "sci": "Pseudacris sierra",
+   "name": "Sierran Tree Frog"
+  },
+  {
+   "id": "northern_red_legged_frog",
+   "sci": "Rana draytonii",
+   "name": "California Red-legged Frog"
+  },
+  {
+   "id": "western_toad_sierra",
+   "sci": "Anaxyrus boreas",
+   "name": "Western Toad"
+  },
+  {
+   "id": "sierra_nevada_blue_butterfly",
+   "sci": "Agriades podarce",
+   "name": "Sierra Nevada Blue Butterfly"
+  },
+  {
+   "id": "high_sierra_parnassian_butterfly",
+   "sci": "Parnassius behrii",
+   "name": "Sierra Nevada Parnassian"
+  },
+  {
+   "id": "golden_buprestid_beetle",
+   "sci": "Buprestis aurulenta",
+   "name": "Golden Buprestid Beetle"
+  },
+  {
+   "id": "sierra_timber_bee",
+   "sci": "Xylocopa californica",
+   "name": "Western Carpenter Bee"
+  },
+  {
+   "id": "alpine_stonefly",
+   "sci": "Calineuria californica",
+   "name": "Western Stonefly"
+  },
+  {
+   "id": "sierra_clubtail_dragonfly",
+   "sci": "Stylurus olivaceus",
+   "name": "Sierra Clubtail Dragonfly"
+  },
+  {
+   "id": "mount_lyell_shrew",
+   "sci": "Sorex lyelli",
+   "name": "Mount Lyell Shrew"
+  },
+  {
+   "id": "gray_crowned_rosy_finch",
+   "sci": "Leucosticte tephrocotis",
+   "name": "Gray-Crowned Rosy-Finch"
+  },
+  {
+   "id": "pine_grosbeak",
+   "sci": "Pinicola enucleator",
+   "name": "Pine Grosbeak"
+  },
+  {
+   "id": "sierra_pygmy_grasshopper",
+   "sci": "Tetrix sierrana",
+   "name": "Sierra Pygmy Grasshopper"
+  },
+  {
+   "id": "california_mountain_silk_moth_sierra",
+   "sci": "Hyalophora euryalus",
+   "name": "California Mountain Silk Moth"
+  },
+  {
+   "id": "northern_saw_whet_owl_sierra",
+   "sci": "Aegolius acadicus",
+   "name": "Northern Saw-whet Owl"
+  },
+  {
+   "id": "common_poorwill_sierra",
+   "sci": "Phalaenoptilus nuttallii",
+   "name": "Common Poorwill"
+  },
+  {
+   "id": "indra_swallowtail_sierra",
+   "sci": "Papilio indra",
+   "name": "Indra Swallowtail"
+  },
+  {
+   "id": "western_pipistrelle_sierra",
+   "sci": "Parastrellus hesperus",
+   "name": "Canyon Pipistrelle Bat"
+  },
+  {
+   "id": "sierra_deer_mouse",
+   "sci": "Peromyscus gambelii",
+   "name": "Sierra Deer Mouse"
+  },
+  {
+   "id": "long_eared_myotis_sierra",
+   "sci": "Myotis evotis",
+   "name": "Long-eared Myotis"
+  },
+  {
+   "id": "bushy_tailed_woodrat_sierra",
+   "sci": "Neotoma cinerea",
+   "name": "Bushy-tailed Woodrat"
+  },
+  {
+   "id": "pallid_bat_sierra",
+   "sci": "Antrozous pallidus",
+   "name": "Sierra Pallid Bat"
+  },
+  {
+   "id": "california_myotis_sierra",
+   "sci": "Myotis californicus",
+   "name": "California Myotis"
+  },
+  {
+   "id": "hoary_bat_sierra",
+   "sci": "Lasiurus cinereus",
+   "name": "Hoary Bat"
+  },
+  {
+   "id": "northern_pygmy_owl",
+   "sci": "Glaucidium gnoma",
+   "name": "Northern Pygmy-Owl"
+  },
+  {
+   "id": "silver_haired_bat_sierra",
+   "sci": "Lasionycteris noctivagans",
+   "name": "Silver-haired Bat"
+  },
+  {
+   "id": "western_jumping_mouse_sierra",
+   "sci": "Zapus princeps",
+   "name": "Western Jumping Mouse"
+  },
+  {
+   "id": "california_floater_mussel",
+   "sci": "Anodonta californiensis",
+   "name": "California Floater"
+  },
+  {
+   "id": "mourning_cloak_sierra",
+   "sci": "Nymphalis antiopa",
+   "name": "Mourning Cloak"
+  }
+ ],
+ "blue_mountains": [
+  {
+   "id": "southern_emperor_moth_bluemtns",
+   "sci": "Opodiphthera eucalypti",
+   "name": "Emperor Gum Moth"
+  },
+  {
+   "id": "wedge_tailed_eagle_bluemtns",
+   "sci": "Aquila audax",
+   "name": "Wedge-tailed Eagle"
+  },
+  {
+   "id": "peregrine_falcon_bluemtns",
+   "sci": "Falco peregrinus",
+   "name": "Peregrine Falcon"
+  },
+  {
+   "id": "nankeen_kestrel_bluemtns",
+   "sci": "Falco cenchroides",
+   "name": "Nankeen Kestrel"
+  },
+  {
+   "id": "brown_goshawk_bluemtns",
+   "sci": "Accipiter fasciatus",
+   "name": "Brown Goshawk"
+  },
+  {
+   "id": "grey_goshawk_bluemtns",
+   "sci": "Accipiter novaehollandiae",
+   "name": "Grey Goshawk"
+  },
+  {
+   "id": "square_tailed_kite_bluemtns",
+   "sci": "Lophoictinia isura",
+   "name": "Square-tailed Kite"
+  },
+  {
+   "id": "powerful_owl_bluemtns",
+   "sci": "Ninox strenua",
+   "name": "Powerful Owl"
+  },
+  {
+   "id": "rockwarbler_bluemtns",
+   "sci": "Origma solitaria",
+   "name": "Rockwarbler"
+  },
+  {
+   "id": "platypus_bluemtns_morph",
+   "sci": "Ornithorhynchus anatinus",
+   "name": "Leucistic Platypus"
+  },
+  {
+   "id": "brush_tailed_rock_wallaby_bluemtns",
+   "sci": "Petrogale penicillata",
+   "name": "Brush-tailed Rock-wallaby"
+  },
+  {
+   "id": "greater_glider_bluemtns",
+   "sci": "Petauroides volans",
+   "name": "Greater Glider"
+  },
+  {
+   "id": "broad_headed_snake_bluemtns",
+   "sci": "Hoplocephalus bungaroides",
+   "name": "Broad-headed Snake"
+  },
+  {
+   "id": "gang_gang_cockatoo_bluemtns",
+   "sci": "Callocephalon fimbriatum",
+   "name": "Gang-gang Cockatoo"
+  },
+  {
+   "id": "yellow_tailed_black_cockatoo_bluemtns",
+   "sci": "Zanda funerea",
+   "name": "Yellow-tailed Black-Cockatoo"
+  },
+  {
+   "id": "satin_bowerbird_bluemtns",
+   "sci": "Ptilonorhynchus violaceus",
+   "name": "Satin Bowerbird"
+  },
+  {
+   "id": "eastern_whipbird_bluemtns",
+   "sci": "Psophodes olivaceus",
+   "name": "Eastern Whipbird"
+  },
+  {
+   "id": "laughing_kookaburra_bluemtns",
+   "sci": "Dacelo novaeguineae",
+   "name": "Laughing Kookaburra"
+  },
+  {
+   "id": "laughing_kookaburra_bluemtns_morph",
+   "sci": "Dacelo novaeguineae",
+   "name": "Leucistic Kookaburra"
+  },
+  {
+   "id": "crimson_rosella_bluemtns",
+   "sci": "Platycercus elegans",
+   "name": "Crimson Rosella"
+  },
+  {
+   "id": "australian_king_parrot_bluemtns",
+   "sci": "Alisterus scapularis",
+   "name": "Australian King-Parrot"
+  },
+  {
+   "id": "wonga_pigeon_bluemtns",
+   "sci": "Leucosarcia melanoleuca",
+   "name": "Wonga Pigeon"
+  },
+  {
+   "id": "lace_monitor_bluemtns",
+   "sci": "Varanus varius",
+   "name": "Lace Monitor"
+  },
+  {
+   "id": "diamond_python_bluemtns",
+   "sci": "Morelia spilota",
+   "name": "Diamond Python"
+  },
+  {
+   "id": "red_bellied_black_snake_bluemtns",
+   "sci": "Pseudechis porphyriacus",
+   "name": "Red-bellied Black Snake"
+  },
+  {
+   "id": "eastern_water_dragon_bluemtns",
+   "sci": "Intellagama lesueurii",
+   "name": "Eastern Water Dragon"
+  },
+  {
+   "id": "blue_mountains_tree_frog_bluemtns",
+   "sci": "Litoria citropa",
+   "name": "Blue Mountains Tree Frog"
+  },
+  {
+   "id": "red_crowned_toadlet_bluemtns",
+   "sci": "Pseudophryne australis",
+   "name": "Red-crowned Toadlet"
+  },
+  {
+   "id": "short_beaked_echidna_bluemtns",
+   "sci": "Tachyglossus aculeatus",
+   "name": "Short-beaked Echidna"
+  },
+  {
+   "id": "common_wombat_bluemtns",
+   "sci": "Vombatus ursinus",
+   "name": "Common Wombat"
+  },
+  {
+   "id": "swamp_wallaby_bluemtns",
+   "sci": "Wallabia bicolor",
+   "name": "Swamp Wallaby"
+  },
+  {
+   "id": "common_brushtail_possum_bluemtns",
+   "sci": "Trichosurus vulpecula",
+   "name": "Common Brushtail Possum"
+  },
+  {
+   "id": "common_brushtail_possum_bluemtns_morph",
+   "sci": "Trichosurus vulpecula",
+   "name": "Black Brushtail Possum"
+  },
+  {
+   "id": "common_ringtail_possum_bluemtns",
+   "sci": "Pseudocheirus peregrinus",
+   "name": "Common Ringtail Possum"
+  },
+  {
+   "id": "sugar_glider_bluemtns",
+   "sci": "Petaurus breviceps",
+   "name": "Sugar Glider"
+  },
+  {
+   "id": "southern_boobook_bluemtns",
+   "sci": "Ninox boobook",
+   "name": "Southern Boobook"
+  },
+  {
+   "id": "white_throated_treecreeper_bluemtns",
+   "sci": "Cormobates leucophaea",
+   "name": "White-throated Treecreeper"
+  },
+  {
+   "id": "eastern_yellow_robin_bluemtns",
+   "sci": "Eopsaltria australis",
+   "name": "Eastern Yellow Robin"
+  },
+  {
+   "id": "pied_currawong_bluemtns",
+   "sci": "Strepera graculina",
+   "name": "Pied Currawong"
+  },
+  {
+   "id": "eastern_spinebill_bluemtns",
+   "sci": "Acanthorhynchus tenuirostris",
+   "name": "Eastern Spinebill"
+  },
+  {
+   "id": "greengrocer_cicada_bluemtns",
+   "sci": "Cyclochila australasiae",
+   "name": "Greengrocer Cicada"
+  },
+  {
+   "id": "sydney_funnel_web_bluemtns",
+   "sci": "Hadronyche versuta",
+   "name": "Blue Mountains Funnel-web Spider"
+  },
+  {
+   "id": "australian_magpie_bluemtns",
+   "sci": "Gymnorhina tibicen",
+   "name": "Australian Magpie"
+  },
+  {
+   "id": "grey_fantail_bluemtns",
+   "sci": "Rhipidura albiscapa",
+   "name": "Grey Fantail"
+  },
+  {
+   "id": "superb_fairywren_bluemtns",
+   "sci": "Malurus cyaneus",
+   "name": "Superb Fairy-wren"
+  },
+  {
+   "id": "brown_thornbill_bluemtns",
+   "sci": "Acanthiza pusilla",
+   "name": "Brown Thornbill"
+  },
+  {
+   "id": "white_browed_scrubwren_bluemtns",
+   "sci": "Sericornis frontalis",
+   "name": "White-browed Scrubwren"
+  },
+  {
+   "id": "golden_whistler_bluemtns",
+   "sci": "Pachycephala pectoralis",
+   "name": "Golden Whistler"
+  },
+  {
+   "id": "grey_shrike_thrush_bluemtns",
+   "sci": "Colluricincla harmonica",
+   "name": "Grey Shrike-thrush"
+  },
+  {
+   "id": "red_wattlebird_bluemtns",
+   "sci": "Anthochaera carunculata",
+   "name": "Red Wattlebird"
+  },
+  {
+   "id": "new_holland_honeyeater_bluemtns",
+   "sci": "Phylidonyris novaehollandiae",
+   "name": "New Holland Honeyeater"
+  },
+  {
+   "id": "silvereye_bluemtns",
+   "sci": "Zosterops lateralis",
+   "name": "Silvereye"
+  },
+  {
+   "id": "sulphur_crested_cockatoo_bluemtns",
+   "sci": "Cacatua galerita",
+   "name": "Sulphur-crested Cockatoo"
+  },
+  {
+   "id": "spotted_pardalote_bluemtns",
+   "sci": "Pardalotus punctatus",
+   "name": "Spotted Pardalote"
+  },
+  {
+   "id": "tawny_frogmouth_bluemtns",
+   "sci": "Podargus strigoides",
+   "name": "Tawny Frogmouth"
+  },
+  {
+   "id": "eastern_grey_kangaroo_bluemtns",
+   "sci": "Macropus giganteus",
+   "name": "Eastern Grey Kangaroo"
+  },
+  {
+   "id": "red_necked_wallaby_bluemtns",
+   "sci": "Notamacropus rufogriseus",
+   "name": "Red-necked Wallaby"
+  },
+  {
+   "id": "bush_rat_bluemtns",
+   "sci": "Rattus fuscipes",
+   "name": "Bush Rat"
+  },
+  {
+   "id": "yellow_footed_antechinus_bluemtns",
+   "sci": "Antechinus flavipes",
+   "name": "Yellow-footed Antechinus"
+  },
+  {
+   "id": "grey_headed_flying_fox_bluemtns",
+   "sci": "Pteropus poliocephalus",
+   "name": "Grey-headed Flying-fox"
+  },
+  {
+   "id": "eastern_blue_tongue_bluemtns",
+   "sci": "Tiliqua scincoides",
+   "name": "Eastern Blue-tongue"
+  },
+  {
+   "id": "garden_skink_bluemtns",
+   "sci": "Lampropholis guichenoti",
+   "name": "Garden Skink"
+  },
+  {
+   "id": "cunninghams_skink_bluemtns",
+   "sci": "Egernia cunninghami",
+   "name": "Cunningham's Skink"
+  },
+  {
+   "id": "common_eastern_froglet_bluemtns",
+   "sci": "Crinia signifera",
+   "name": "Common Eastern Froglet"
+  },
+  {
+   "id": "striped_marsh_frog_bluemtns",
+   "sci": "Limnodynastes peronii",
+   "name": "Striped Marsh Frog"
+  },
+  {
+   "id": "black_prince_cicada_bluemtns",
+   "sci": "Psaltoda plaga",
+   "name": "Black Prince Cicada"
+  },
+  {
+   "id": "macleays_swallowtail_bluemtns",
+   "sci": "Graphium macleayanus",
+   "name": "Macleay's Swallowtail"
+  },
+  {
+   "id": "bull_ant_bluemtns",
+   "sci": "Myrmecia gulosa",
+   "name": "Bull Ant"
+  },
+  {
+   "id": "golden_orb_weaver_bluemtns",
+   "sci": "Trichonephila plumipes",
+   "name": "Golden Orb-weaver"
+  },
+  {
+   "id": "glossy_black_cockatoo_bluemtns",
+   "sci": "Calyptorhynchus lathami",
+   "name": "Glossy Black-Cockatoo"
+  },
+  {
+   "id": "sooty_owl_bluemtns",
+   "sci": "Tyto tenebricosa",
+   "name": "Sooty Owl"
+  },
+  {
+   "id": "eastern_pygmy_possum_bluemtns",
+   "sci": "Cercartetus nanus",
+   "name": "Eastern Pygmy-possum"
+  },
+  {
+   "id": "feathertail_glider_bluemtns",
+   "sci": "Acrobates pygmaeus",
+   "name": "Feathertail Glider"
+  },
+  {
+   "id": "giant_burrowing_frog_bluemtns",
+   "sci": "Heleioporus australiacus",
+   "name": "Giant Burrowing Frog"
+  },
+  {
+   "id": "willie_wagtail_bluemtns",
+   "sci": "Rhipidura leucophrys",
+   "name": "Willie Wagtail"
+  },
+  {
+   "id": "noisy_miner_bluemtns",
+   "sci": "Manorina melanocephala",
+   "name": "Noisy Miner"
+  },
+  {
+   "id": "yellow_faced_honeyeater_bluemtns",
+   "sci": "Caligavis chrysops",
+   "name": "Yellow-faced Honeyeater"
+  },
+  {
+   "id": "striated_thornbill_bluemtns",
+   "sci": "Acanthiza lineata",
+   "name": "Striated Thornbill"
+  },
+  {
+   "id": "rufous_whistler_bluemtns",
+   "sci": "Pachycephala rufiventris",
+   "name": "Rufous Whistler"
+  },
+  {
+   "id": "black_faced_cuckooshrike_bluemtns",
+   "sci": "Coracina novaehollandiae",
+   "name": "Black-faced Cuckooshrike"
+  },
+  {
+   "id": "australian_raven_bluemtns",
+   "sci": "Corvus coronoides",
+   "name": "Australian Raven"
+  },
+  {
+   "id": "grey_butcherbird_bluemtns",
+   "sci": "Cracticus torquatus",
+   "name": "Grey Butcherbird"
+  },
+  {
+   "id": "crested_pigeon_bluemtns",
+   "sci": "Ocyphaps lophotes",
+   "name": "Crested Pigeon"
+  },
+  {
+   "id": "rainbow_lorikeet_bluemtns",
+   "sci": "Trichoglossus moluccanus",
+   "name": "Rainbow Lorikeet"
+  },
+  {
+   "id": "eastern_rosella_bluemtns",
+   "sci": "Platycercus eximius",
+   "name": "Eastern Rosella"
+  },
+  {
+   "id": "brown_cuckoo_dove_bluemtns",
+   "sci": "Macropygia phasianella",
+   "name": "Brown Cuckoo-Dove"
+  },
+  {
+   "id": "fan_tailed_cuckoo_bluemtns",
+   "sci": "Cacomantis flabelliformis",
+   "name": "Fan-tailed Cuckoo"
+  },
+  {
+   "id": "jacky_dragon_bluemtns",
+   "sci": "Amphibolurus muricatus",
+   "name": "Jacky Dragon"
+  },
+  {
+   "id": "eastern_water_skink_bluemtns",
+   "sci": "Eulamprus quoyii",
+   "name": "Eastern Water Skink"
+  },
+  {
+   "id": "leaf_green_tree_frog_bluemtns",
+   "sci": "Litoria phyllochroa",
+   "name": "Leaf Green Tree Frog"
+  },
+  {
+   "id": "common_brown_butterfly_bluemtns",
+   "sci": "Heteronympha merope",
+   "name": "Common Brown Butterfly"
+  },
+  {
+   "id": "blue_triangle_butterfly_bluemtns",
+   "sci": "Graphium choredon",
+   "name": "Blue Triangle Butterfly"
+  },
+  {
+   "id": "mountain_katydid_bluemtns",
+   "sci": "Acripeza reticulata",
+   "name": "Mountain Katydid"
+  },
+  {
+   "id": "meat_ant_bluemtns",
+   "sci": "Iridomyrmex purpureus",
+   "name": "Meat Ant"
+  },
+  {
+   "id": "fiddler_beetle_bluemtns",
+   "sci": "Eupoecila australasiae",
+   "name": "Fiddler Beetle"
+  },
+  {
+   "id": "garden_orb_weaver_bluemtns",
+   "sci": "Hortophora transmarina",
+   "name": "Garden Orb-weaver"
+  },
+  {
+   "id": "scarlet_robin_bluemtns",
+   "sci": "Petroica boodang",
+   "name": "Scarlet Robin"
+  },
+  {
+   "id": "white_eared_honeyeater_bluemtns",
+   "sci": "Nesoptilotis leucotis",
+   "name": "White-eared Honeyeater"
+  }
+ ],
+ "atlantic_forest": [
+  {
+   "id": "red_rumped_agouti_mataatl",
+   "sci": "Dasyprocta leporina",
+   "name": "Red-rumped Agouti"
+  },
+  {
+   "id": "rufous_bellied_thrush_mataatl",
+   "sci": "Turdus rufiventris",
+   "name": "Rufous-bellied Thrush"
+  },
+  {
+   "id": "great_kiskadee_mataatl",
+   "sci": "Pitangus sulphuratus",
+   "name": "Great Kiskadee"
+  },
+  {
+   "id": "big_eared_opossum_mataatl",
+   "sci": "Didelphis aurita",
+   "name": "Big-eared Opossum"
+  },
+  {
+   "id": "leafcutter_ant_mataatl",
+   "sci": "Atta sexdens",
+   "name": "Leafcutter Ant"
+  },
+  {
+   "id": "cururu_toad_mataatl",
+   "sci": "Rhinella icterica",
+   "name": "Cururu Toad"
+  },
+  {
+   "id": "sayaca_tanager_mataatl",
+   "sci": "Thraupis sayaca",
+   "name": "Sayaca Tanager"
+  },
+  {
+   "id": "crab_eating_fox_mataatl",
+   "sci": "Cerdocyon thous",
+   "name": "Crab-eating Fox"
+  },
+  {
+   "id": "green_headed_tanager_mataatl",
+   "sci": "Tangara seledon",
+   "name": "Green-headed Tanager"
+  },
+  {
+   "id": "brazilian_porcupine_mataatl",
+   "sci": "Coendou prehensilis",
+   "name": "Brazilian Porcupine"
+  },
+  {
+   "id": "golden_tegu_mataatl",
+   "sci": "Salvator merianae",
+   "name": "Argentine Black and White Tegu"
+  },
+  {
+   "id": "blue_morpho_mataatl",
+   "sci": "Morpho helenor",
+   "name": "Blue Morpho"
+  },
+  {
+   "id": "blacksmith_treefrog_mataatl",
+   "sci": "Boana faber",
+   "name": "Blacksmith Tree Frog"
+  },
+  {
+   "id": "brown_howler_monkey_mataatl",
+   "sci": "Alouatta guariba",
+   "name": "Brown Howler Monkey"
+  },
+  {
+   "id": "channel_billed_toucan_mataatl",
+   "sci": "Ramphastos vitellinus",
+   "name": "Channel-billed Toucan"
+  },
+  {
+   "id": "tayra_mataatl",
+   "sci": "Eira barbara",
+   "name": "Tayra"
+  },
+  {
+   "id": "yellow_footed_tortoise_mataatl",
+   "sci": "Chelonoidis denticulata",
+   "name": "Yellow-footed Tortoise"
+  },
+  {
+   "id": "jararaca_mataatl",
+   "sci": "Bothrops jararaca",
+   "name": "Jararaca"
+  },
+  {
+   "id": "southern_tamandua_mataatl",
+   "sci": "Tamandua tetradactyla",
+   "name": "Southern Tamandua"
+  },
+  {
+   "id": "rufous_capped_motmot_mataatl",
+   "sci": "Baryphthengus ruficapillus",
+   "name": "Rufous-capped Motmot"
+  },
+  {
+   "id": "ocelot_mataatl",
+   "sci": "Leopardus pardalis",
+   "name": "Ocelot"
+  },
+  {
+   "id": "blue_and_yellow_macaw_mataatl",
+   "sci": "Ara ararauna",
+   "name": "Blue-and-yellow Macaw"
+  },
+  {
+   "id": "saffron_toucanet_mataatl",
+   "sci": "Pteroglossus bailloni",
+   "name": "Saffron Toucanet"
+  },
+  {
+   "id": "boa_constrictor_mataatl",
+   "sci": "Boa constrictor",
+   "name": "Boa Constrictor"
+  },
+  {
+   "id": "brassy_breasted_tanager_mataatl",
+   "sci": "Tangara desmaresti",
+   "name": "Brassy-breasted Tanager"
+  },
+  {
+   "id": "dusky_legged_guan_mataatl",
+   "sci": "Penelope obscura",
+   "name": "Dusky-legged Guan"
+  },
+  {
+   "id": "maroon_bellied_parakeet_mataatl",
+   "sci": "Pyrrhura frontalis",
+   "name": "Maroon-bellied Parakeet"
+  },
+  {
+   "id": "torrent_frog_mataatl",
+   "sci": "Hylodes asper",
+   "name": "Serra Torrent Frog"
+  },
+  {
+   "id": "red_brocket_deer_mataatl",
+   "sci": "Mazama rufa",
+   "name": "Red Brocket Deer"
+  },
+  {
+   "id": "surucua_trogon_mataatl",
+   "sci": "Trogon surrucura",
+   "name": "Surucua Trogon"
+  },
+  {
+   "id": "paca_mataatl",
+   "sci": "Cuniculus paca",
+   "name": "Lowland Paca"
+  },
+  {
+   "id": "pumpkin_toadlet_mataatl",
+   "sci": "Brachycephalus ephippium",
+   "name": "Pumpkin Toadlet"
+  },
+  {
+   "id": "brown_throated_sloth_mataatl",
+   "sci": "Bradypus variegatus",
+   "name": "Brown-throated Sloth"
+  },
+  {
+   "id": "black_and_gold_cotinga_mataatl",
+   "sci": "Lipaugus ater",
+   "name": "Black-and-gold Cotinga"
+  },
+  {
+   "id": "oncilla_mataatl",
+   "sci": "Leopardus guttulus",
+   "name": "Southern Tiger Cat"
+  },
+  {
+   "id": "mantled_hawk_mataatl",
+   "sci": "Pseudastur polionotus",
+   "name": "Mantled Hawk"
+  },
+  {
+   "id": "diademed_tanager_mataatl",
+   "sci": "Stephanophorus diadematus",
+   "name": "Diademed Tanager"
+  },
+  {
+   "id": "velvety_black_tyrant_mataatl",
+   "sci": "Knipolegus nigerrimus",
+   "name": "Velvety Black Tyrant"
+  },
+  {
+   "id": "itatiaia_thistletail_mataatl",
+   "sci": "Asthenes moreirae",
+   "name": "Itatiaia Spinetail"
+  },
+  {
+   "id": "puma_mataatl",
+   "sci": "Puma concolor",
+   "name": "Puma"
+  },
+  {
+   "id": "bananaquit_mataatl",
+   "sci": "Coereba flaveola",
+   "name": "Bananaquit"
+  },
+  {
+   "id": "palm_tanager_mataatl",
+   "sci": "Thraupis palmarum",
+   "name": "Palm Tanager"
+  },
+  {
+   "id": "southern_house_wren_mataatl",
+   "sci": "Troglodytes musculus",
+   "name": "Southern House Wren"
+  },
+  {
+   "id": "ruddy_ground_dove_mataatl",
+   "sci": "Columbina talpacoti",
+   "name": "Ruddy Ground Dove"
+  },
+  {
+   "id": "tropical_kingbird_mataatl",
+   "sci": "Tyrannus melancholicus",
+   "name": "Tropical Kingbird"
+  },
+  {
+   "id": "pale_breasted_thrush_mataatl",
+   "sci": "Turdus leucomelas",
+   "name": "Pale-breasted Thrush"
+  },
+  {
+   "id": "swallow_tailed_hummingbird_mataatl",
+   "sci": "Eupetomena macroura",
+   "name": "Swallow-tailed Hummingbird"
+  },
+  {
+   "id": "black_vulture_mataatl",
+   "sci": "Coragyps atratus",
+   "name": "Black Vulture"
+  },
+  {
+   "id": "kelp_gull_mataatl",
+   "sci": "Larus dominicanus",
+   "name": "Kelp Gull"
+  },
+  {
+   "id": "magnificent_frigatebird_mataatl",
+   "sci": "Fregata magnificens",
+   "name": "Magnificent Frigatebird"
+  },
+  {
+   "id": "plain_parakeet_mataatl",
+   "sci": "Brotogeris tirica",
+   "name": "Plain Parakeet"
+  },
+  {
+   "id": "violet_capped_woodnymph_mataatl",
+   "sci": "Thalurania glaucopis",
+   "name": "Violet-capped Woodnymph"
+  },
+  {
+   "id": "swallow_tailed_manakin_mataatl",
+   "sci": "Chiroxiphia caudata",
+   "name": "Swallow-tailed Manakin"
+  },
+  {
+   "id": "roadside_hawk_mataatl",
+   "sci": "Rupornis magnirostris",
+   "name": "Roadside Hawk"
+  },
+  {
+   "id": "brazilian_ruby_mataatl",
+   "sci": "Clytolaema rubricauda",
+   "name": "Brazilian Ruby"
+  },
+  {
+   "id": "tropical_screech_owl_mataatl",
+   "sci": "Megascops choliba",
+   "name": "Tropical Screech-Owl"
+  },
+  {
+   "id": "bare_throated_bellbird_mataatl",
+   "sci": "Procnias nudicollis",
+   "name": "Bare-throated Bellbird"
+  },
+  {
+   "id": "tawny_browed_owl_mataatl",
+   "sci": "Pulsatrix koeniswaldiana",
+   "name": "Tawny-browed Owl"
+  },
+  {
+   "id": "brown_booby_mataatl",
+   "sci": "Sula leucogaster",
+   "name": "Brown Booby"
+  },
+  {
+   "id": "black_hawk_eagle_mataatl",
+   "sci": "Spizaetus tyrannus",
+   "name": "Black Hawk-Eagle"
+  },
+  {
+   "id": "common_marmoset_mataatl",
+   "sci": "Callithrix jacchus",
+   "name": "Common Marmoset"
+  },
+  {
+   "id": "south_american_coati_mataatl",
+   "sci": "Nasua nasua",
+   "name": "South American Coati"
+  },
+  {
+   "id": "black_horned_capuchin_mataatl",
+   "sci": "Sapajus nigritus",
+   "name": "Black-horned Capuchin"
+  },
+  {
+   "id": "nine_banded_armadillo_mataatl",
+   "sci": "Dasypus novemcinctus",
+   "name": "Nine-banded Armadillo"
+  },
+  {
+   "id": "gray_four_eyed_opossum_mataatl",
+   "sci": "Philander quica",
+   "name": "Southeastern Four-eyed Opossum"
+  },
+  {
+   "id": "gray_slender_opossum_mataatl",
+   "sci": "Marmosops incanus",
+   "name": "Gray Slender Opossum"
+  },
+  {
+   "id": "great_fruit_eating_bat_mataatl",
+   "sci": "Artibeus lituratus",
+   "name": "Great Fruit-eating Bat"
+  },
+  {
+   "id": "common_vampire_bat_mataatl",
+   "sci": "Desmodus rotundus",
+   "name": "Common Vampire Bat"
+  },
+  {
+   "id": "margay_mataatl",
+   "sci": "Leopardus wiedii",
+   "name": "Margay"
+  },
+  {
+   "id": "guiana_dolphin_mataatl",
+   "sci": "Sotalia guianensis",
+   "name": "Guiana Dolphin"
+  },
+  {
+   "id": "humpback_whale_mataatl",
+   "sci": "Megaptera novaeangliae",
+   "name": "Humpback Whale"
+  },
+  {
+   "id": "amazon_lava_lizard_mataatl",
+   "sci": "Tropidurus torquatus",
+   "name": "Amazon Lava Lizard"
+  },
+  {
+   "id": "tropical_house_gecko_mataatl",
+   "sci": "Hemidactylus mabouia",
+   "name": "Tropical House Gecko"
+  },
+  {
+   "id": "painted_coral_snake_mataatl",
+   "sci": "Micrurus corallinus",
+   "name": "Painted Coral Snake"
+  },
+  {
+   "id": "jararacussu_mataatl",
+   "sci": "Bothrops jararacussu",
+   "name": "Jararacussu"
+  },
+  {
+   "id": "tiger_rat_snake_mataatl",
+   "sci": "Spilotes pullatus",
+   "name": "Tiger Rat Snake"
+  },
+  {
+   "id": "two_headed_sipo_mataatl",
+   "sci": "Chironius bicarinatus",
+   "name": "Two-headed Sipo"
+  },
+  {
+   "id": "brazilian_fathead_anole_mataatl",
+   "sci": "Enyalius brasiliensis",
+   "name": "Brazilian Fathead Anole"
+  },
+  {
+   "id": "green_sea_turtle_mataatl",
+   "sci": "Chelonia mydas",
+   "name": "Green Sea Turtle"
+  },
+  {
+   "id": "snake_necked_turtle_mataatl",
+   "sci": "Hydromedusa maximiliani",
+   "name": "Maximilian's Snake-necked Turtle"
+  },
+  {
+   "id": "lutz_tree_iguana_mataatl",
+   "sci": "Liolaemus lutzae",
+   "name": "Lutz's Tree Iguana"
+  },
+  {
+   "id": "rock_river_frog_mataatl",
+   "sci": "Thoropa miliaris",
+   "name": "Rock River Frog"
+  },
+  {
+   "id": "guenthers_frog_mataatl",
+   "sci": "Ischnocnema guentheri",
+   "name": "Guenther's Frog"
+  },
+  {
+   "id": "lesser_treefrog_mataatl",
+   "sci": "Dendropsophus minutus",
+   "name": "Lesser Treefrog"
+  },
+  {
+   "id": "clay_robber_frog_mataatl",
+   "sci": "Haddadus binotatus",
+   "name": "Clay Robber Frog"
+  },
+  {
+   "id": "brazilian_spinythumb_frog_mataatl",
+   "sci": "Crossodactylus gaudichaudii",
+   "name": "Brazilian Spinythumb Frog"
+  },
+  {
+   "id": "goeldis_frog_mataatl",
+   "sci": "Fritziana goeldii",
+   "name": "Goeldi's Frog"
+  },
+  {
+   "id": "spotted_leaf_frog_mataatl",
+   "sci": "Phasmahyla guttata",
+   "name": "Spotted Leaf Frog"
+  },
+  {
+   "id": "gunthers_horned_frog_mataatl",
+   "sci": "Proceratophrys appendiculata",
+   "name": "Günther's Horned Frog"
+  },
+  {
+   "id": "silver_garden_orbweaver_mataatl",
+   "sci": "Argiope argentata",
+   "name": "Silver Garden Orbweaver"
+  },
+  {
+   "id": "golden_orb_weaver_mataatl",
+   "sci": "Trichonephila clavipes",
+   "name": "Golden Orb Weaver"
+  },
+  {
+   "id": "red_postman_mataatl",
+   "sci": "Heliconius erato",
+   "name": "Red Postman"
+  },
+  {
+   "id": "julia_butterfly_mataatl",
+   "sci": "Dryas iulia",
+   "name": "Julia Butterfly"
+  },
+  {
+   "id": "white_peacock_mataatl",
+   "sci": "Anartia jatrophae",
+   "name": "White Peacock"
+  },
+  {
+   "id": "spiny_backed_orbweaver_mataatl",
+   "sci": "Gasteracantha cancriformis",
+   "name": "Spiny-backed Orbweaver"
+  },
+  {
+   "id": "ornate_wandering_spider_mataatl",
+   "sci": "Ctenus ornatus",
+   "name": "Ornate Tropical Wandering Spider"
+  },
+  {
+   "id": "dark_owl_butterfly_mataatl",
+   "sci": "Caligo brasiliensis",
+   "name": "Dark Owl-Butterfly"
+  },
+  {
+   "id": "black_witch_moth_mataatl",
+   "sci": "Ascalapha odorata",
+   "name": "Black Witch Moth"
+  },
+  {
+   "id": "green_orchid_bee_mataatl",
+   "sci": "Euglossa cordata",
+   "name": "Green Orchid Bee"
+  },
+  {
+   "id": "mango_longhorn_mataatl",
+   "sci": "Trachyderes succinctus",
+   "name": "Mango Longhorn"
+  },
+  {
+   "id": "ruddy_daggerwing_mataatl",
+   "sci": "Marpesia petreus",
+   "name": "Ruddy Daggerwing"
+  },
+  {
+   "id": "fluminense_swallowtail_mataatl",
+   "sci": "Parides ascanius",
+   "name": "Fluminense Swallowtail"
+  }
+ ],
+ "banff": [
+  {
+   "id": "columbian_ground_squirrel_banff",
+   "sci": "Urocitellus columbianus",
+   "name": "Columbian Ground Squirrel"
+  },
+  {
+   "id": "american_red_squirrel_banff",
+   "sci": "Tamiasciurus hudsonicus",
+   "name": "American Red Squirrel"
+  },
+  {
+   "id": "golden_mantled_ground_squirrel_banff",
+   "sci": "Callospermophilus lateralis",
+   "name": "Golden-mantled Ground Squirrel"
+  },
+  {
+   "id": "least_chipmunk_banff",
+   "sci": "Neotamias minimus",
+   "name": "Least Chipmunk"
+  },
+  {
+   "id": "elk_banff",
+   "sci": "Cervus canadensis",
+   "name": "Elk"
+  },
+  {
+   "id": "mule_deer_banff",
+   "sci": "Odocoileus hemionus",
+   "name": "Mule Deer"
+  },
+  {
+   "id": "deer_mouse_banff",
+   "sci": "Peromyscus sonoriensis",
+   "name": "Western Deer Mouse"
+  },
+  {
+   "id": "hoary_marmot_banff",
+   "sci": "Marmota caligata",
+   "name": "Hoary Marmot"
+  },
+  {
+   "id": "american_pika_banff",
+   "sci": "Ochotona princeps",
+   "name": "American Pika"
+  },
+  {
+   "id": "snowshoe_hare_banff",
+   "sci": "Lepus americanus",
+   "name": "Snowshoe Hare"
+  },
+  {
+   "id": "white_tailed_deer_banff",
+   "sci": "Odocoileus virginianus",
+   "name": "White-tailed Deer"
+  },
+  {
+   "id": "coyote_banff",
+   "sci": "Canis latrans",
+   "name": "Coyote"
+  },
+  {
+   "id": "southern_red_backed_vole_banff",
+   "sci": "Clethrionomys gapperi",
+   "name": "Southern Red-backed Vole"
+  },
+  {
+   "id": "bushy_tailed_woodrat_banff",
+   "sci": "Neotoma cinerea",
+   "name": "Bushy-tailed Woodrat"
+  },
+  {
+   "id": "north_american_porcupine_banff",
+   "sci": "Erethizon dorsatus",
+   "name": "North American Porcupine"
+  },
+  {
+   "id": "american_beaver_banff",
+   "sci": "Castor canadensis",
+   "name": "American Beaver"
+  },
+  {
+   "id": "muskrat_banff",
+   "sci": "Ondatra zibethicus",
+   "name": "Muskrat"
+  },
+  {
+   "id": "yellow_pine_chipmunk_banff",
+   "sci": "Neotamias amoenus",
+   "name": "Yellow-pine Chipmunk"
+  },
+  {
+   "id": "little_brown_bat_banff",
+   "sci": "Myotis lucifugus",
+   "name": "Little Brown Bat"
+  },
+  {
+   "id": "mountain_goat_banff",
+   "sci": "Oreamnos americanus",
+   "name": "Mountain Goat"
+  },
+  {
+   "id": "american_black_bear_banff",
+   "sci": "Ursus americanus",
+   "name": "American Black Bear"
+  },
+  {
+   "id": "moose_banff",
+   "sci": "Alces alces",
+   "name": "Moose"
+  },
+  {
+   "id": "american_marten_banff",
+   "sci": "Martes americana",
+   "name": "American Marten"
+  },
+  {
+   "id": "red_fox_banff",
+   "sci": "Vulpes vulpes",
+   "name": "Red Fox"
+  },
+  {
+   "id": "ermine_banff",
+   "sci": "Mustela richardsonii",
+   "name": "American Ermine"
+  },
+  {
+   "id": "northern_flying_squirrel_banff",
+   "sci": "Glaucomys sabrinus",
+   "name": "Northern Flying Squirrel"
+  },
+  {
+   "id": "north_american_river_otter_banff",
+   "sci": "Lontra canadensis",
+   "name": "North American River Otter"
+  },
+  {
+   "id": "american_water_shrew_banff",
+   "sci": "Sorex palustris",
+   "name": "American Water Shrew"
+  },
+  {
+   "id": "bighorn_sheep_banff",
+   "sci": "Ovis canadensis",
+   "name": "Bighorn Sheep"
+  },
+  {
+   "id": "grizzly_bear_banff",
+   "sci": "Ursus arctos",
+   "name": "Grizzly Bear"
+  },
+  {
+   "id": "gray_wolf_banff",
+   "sci": "Canis lupus",
+   "name": "Gray Wolf"
+  },
+  {
+   "id": "canada_lynx_banff",
+   "sci": "Lynx canadensis",
+   "name": "Canada Lynx"
+  },
+  {
+   "id": "cougar_banff",
+   "sci": "Puma concolor",
+   "name": "Cougar"
+  },
+  {
+   "id": "american_robin_banff",
+   "sci": "Turdus migratorius",
+   "name": "American Robin"
+  },
+  {
+   "id": "black_billed_magpie_banff",
+   "sci": "Pica hudsonia",
+   "name": "Black-billed Magpie"
+  },
+  {
+   "id": "common_raven_banff",
+   "sci": "Corvus corax",
+   "name": "Common Raven"
+  },
+  {
+   "id": "dark_eyed_junco_banff",
+   "sci": "Junco hyemalis",
+   "name": "Dark-eyed Junco"
+  },
+  {
+   "id": "mountain_chickadee_banff",
+   "sci": "Poecile gambeli",
+   "name": "Mountain Chickadee"
+  },
+  {
+   "id": "black_capped_chickadee_banff",
+   "sci": "Poecile atricapillus",
+   "name": "Black-capped Chickadee"
+  },
+  {
+   "id": "red_breasted_nuthatch_banff",
+   "sci": "Sitta canadensis",
+   "name": "Red-breasted Nuthatch"
+  },
+  {
+   "id": "yellow_rumped_warbler_banff",
+   "sci": "Setophaga coronata",
+   "name": "Yellow-rumped Warbler"
+  },
+  {
+   "id": "canada_jay_banff",
+   "sci": "Perisoreus canadensis",
+   "name": "Canada Jay"
+  },
+  {
+   "id": "clarks_nutcracker_banff",
+   "sci": "Nucifraga columbiana",
+   "name": "Clark's Nutcracker"
+  },
+  {
+   "id": "mallard_banff",
+   "sci": "Anas platyrhynchos",
+   "name": "Mallard"
+  },
+  {
+   "id": "varied_thrush_banff",
+   "sci": "Ixoreus naevius",
+   "name": "Varied Thrush"
+  },
+  {
+   "id": "swainsons_thrush_banff",
+   "sci": "Catharus ustulatus",
+   "name": "Swainson's Thrush"
+  },
+  {
+   "id": "boreal_chickadee_banff",
+   "sci": "Poecile hudsonicus",
+   "name": "Boreal Chickadee"
+  },
+  {
+   "id": "northern_flicker_banff",
+   "sci": "Colaptes auratus",
+   "name": "Northern Flicker"
+  },
+  {
+   "id": "barrows_goldeneye_banff",
+   "sci": "Bucephala islandica",
+   "name": "Barrow's Goldeneye"
+  },
+  {
+   "id": "common_loon_banff",
+   "sci": "Gavia immer",
+   "name": "Common Loon"
+  },
+  {
+   "id": "belted_kingfisher_banff",
+   "sci": "Megaceryle alcyon",
+   "name": "Belted Kingfisher"
+  },
+  {
+   "id": "western_tanager_banff",
+   "sci": "Piranga ludoviciana",
+   "name": "Western Tanager"
+  },
+  {
+   "id": "rufous_hummingbird_banff",
+   "sci": "Selasphorus rufus",
+   "name": "Rufous Hummingbird"
+  },
+  {
+   "id": "american_dipper_banff",
+   "sci": "Cinclus mexicanus",
+   "name": "American Dipper"
+  },
+  {
+   "id": "red_tailed_hawk_banff",
+   "sci": "Buteo jamaicensis",
+   "name": "Red-tailed Hawk"
+  },
+  {
+   "id": "osprey_banff",
+   "sci": "Pandion haliaetus",
+   "name": "Osprey"
+  },
+  {
+   "id": "white_winged_crossbill_banff",
+   "sci": "Loxia leucoptera",
+   "name": "White-winged Crossbill"
+  },
+  {
+   "id": "townsends_warbler_banff",
+   "sci": "Setophaga townsendi",
+   "name": "Townsend's Warbler"
+  },
+  {
+   "id": "pileated_woodpecker_banff",
+   "sci": "Dryocopus pileatus",
+   "name": "Pileated Woodpecker"
+  },
+  {
+   "id": "american_three_toed_woodpecker_banff",
+   "sci": "Picoides dorsalis",
+   "name": "American Three-toed Woodpecker"
+  },
+  {
+   "id": "spruce_grouse_banff",
+   "sci": "Canachites canadensis",
+   "name": "Spruce Grouse"
+  },
+  {
+   "id": "dusky_grouse_banff",
+   "sci": "Dendragapus obscurus",
+   "name": "Dusky Grouse"
+  },
+  {
+   "id": "harlequin_duck_banff",
+   "sci": "Histrionicus histrionicus",
+   "name": "Harlequin Duck"
+  },
+  {
+   "id": "black_swift_banff",
+   "sci": "Cypseloides niger",
+   "name": "Black Swift"
+  },
+  {
+   "id": "bald_eagle_banff",
+   "sci": "Haliaeetus leucocephalus",
+   "name": "Bald Eagle"
+  },
+  {
+   "id": "golden_eagle_banff",
+   "sci": "Aquila chrysaetos",
+   "name": "Golden Eagle"
+  },
+  {
+   "id": "gray_crowned_rosy_finch_banff",
+   "sci": "Leucosticte tephrocotis",
+   "name": "Gray-crowned Rosy-Finch"
+  },
+  {
+   "id": "northern_pygmy_owl_banff",
+   "sci": "Glaucidium gnoma",
+   "name": "Northern Pygmy-Owl"
+  },
+  {
+   "id": "boreal_owl_banff",
+   "sci": "Aegolius funereus",
+   "name": "Boreal Owl"
+  },
+  {
+   "id": "white_tailed_ptarmigan_banff",
+   "sci": "Lagopus leucura",
+   "name": "White-tailed Ptarmigan"
+  },
+  {
+   "id": "trumpeter_swan_banff",
+   "sci": "Cygnus buccinator",
+   "name": "Trumpeter Swan"
+  },
+  {
+   "id": "calliope_hummingbird_banff",
+   "sci": "Selasphorus calliope",
+   "name": "Calliope Hummingbird"
+  },
+  {
+   "id": "terrestrial_garter_snake_banff",
+   "sci": "Thamnophis elegans",
+   "name": "Terrestrial Garter Snake"
+  },
+  {
+   "id": "western_toad_banff",
+   "sci": "Anaxyrus boreas",
+   "name": "Western Toad"
+  },
+  {
+   "id": "columbia_spotted_frog_banff",
+   "sci": "Rana luteiventris",
+   "name": "Columbia Spotted Frog"
+  },
+  {
+   "id": "wood_frog_banff",
+   "sci": "Lithobates sylvaticus",
+   "name": "Wood Frog"
+  },
+  {
+   "id": "long_toed_salamander_banff",
+   "sci": "Ambystoma macrodactylum",
+   "name": "Long-toed Salamander"
+  },
+  {
+   "id": "canadian_tiger_swallowtail_banff",
+   "sci": "Papilio canadensis",
+   "name": "Canadian Tiger Swallowtail"
+  },
+  {
+   "id": "northern_blue_banff",
+   "sci": "Plebejus idas",
+   "name": "Northern Blue"
+  },
+  {
+   "id": "yellow_headed_bumble_bee_banff",
+   "sci": "Bombus flavifrons",
+   "name": "Yellow-headed Bumble Bee"
+  },
+  {
+   "id": "four_spotted_skimmer_banff",
+   "sci": "Libellula quadrimaculata",
+   "name": "Four-spotted Skimmer"
+  },
+  {
+   "id": "rocky_mountain_wood_tick_banff",
+   "sci": "Dermacentor andersoni",
+   "name": "Rocky Mountain Wood Tick"
+  },
+  {
+   "id": "western_thatching_ant_banff",
+   "sci": "Formica obscuripes",
+   "name": "Western Thatching Ant"
+  },
+  {
+   "id": "mountain_parnassian_banff",
+   "sci": "Parnassius smintheus",
+   "name": "Mountain Parnassian"
+  },
+  {
+   "id": "atlantis_fritillary_banff",
+   "sci": "Speyeria atlantis",
+   "name": "Atlantis Fritillary"
+  },
+  {
+   "id": "christina_sulphur_banff",
+   "sci": "Colias christina",
+   "name": "Christina Sulphur"
+  },
+  {
+   "id": "milberts_tortoiseshell_banff",
+   "sci": "Aglais milberti",
+   "name": "Milbert's Tortoiseshell"
+  },
+  {
+   "id": "paddle_tailed_darner_banff",
+   "sci": "Aeshna palmata",
+   "name": "Paddle-tailed Darner"
+  },
+  {
+   "id": "white_spotted_sawyer_banff",
+   "sci": "Monochamus scutellatus",
+   "name": "White-spotted Sawyer"
+  },
+  {
+   "id": "goldenrod_crab_spider_banff",
+   "sci": "Misumena vatia",
+   "name": "Goldenrod Crab Spider"
+  },
+  {
+   "id": "common_alpine_banff",
+   "sci": "Erebia epipsodea",
+   "name": "Common Alpine"
+  },
+  {
+   "id": "boreal_long_lipped_tiger_beetle_banff",
+   "sci": "Cicindela longilabris",
+   "name": "Boreal Long-lipped Tiger Beetle"
+  }
+ ],
+ "rocky_mountain": [
+  {
+   "id": "elk_rmnp",
+   "sci": "Cervus canadensis",
+   "name": "Elk"
+  },
+  {
+   "id": "mule_deer_rmnp",
+   "sci": "Odocoileus hemionus",
+   "name": "Mule Deer"
+  },
+  {
+   "id": "golden_mantled_ground_squirrel_rmnp",
+   "sci": "Callospermophilus lateralis",
+   "name": "Golden-mantled Ground Squirrel"
+  },
+  {
+   "id": "least_chipmunk_rmnp",
+   "sci": "Neotamias minimus",
+   "name": "Least Chipmunk"
+  },
+  {
+   "id": "deer_mouse_rmnp",
+   "sci": "Peromyscus sonoriensis",
+   "name": "Western Deer Mouse"
+  },
+  {
+   "id": "yellow_bellied_marmot_rmnp",
+   "sci": "Marmota flaviventris",
+   "name": "Yellow-bellied Marmot"
+  },
+  {
+   "id": "american_red_squirrel_rmnp",
+   "sci": "Tamiasciurus hudsonicus",
+   "name": "American Red Squirrel"
+  },
+  {
+   "id": "american_pika_rmnp",
+   "sci": "Ochotona princeps",
+   "name": "American Pika"
+  },
+  {
+   "id": "wyoming_ground_squirrel_rmnp",
+   "sci": "Urocitellus elegans",
+   "name": "Wyoming Ground Squirrel"
+  },
+  {
+   "id": "aberts_squirrel_rmnp",
+   "sci": "Sciurus aberti",
+   "name": "Abert's Squirrel"
+  },
+  {
+   "id": "colorado_chipmunk_rmnp",
+   "sci": "Neotamias quadrivittatus",
+   "name": "Colorado Chipmunk"
+  },
+  {
+   "id": "uinta_chipmunk_rmnp",
+   "sci": "Neotamias umbrinus",
+   "name": "Uinta Chipmunk"
+  },
+  {
+   "id": "snowshoe_hare_rmnp",
+   "sci": "Lepus americanus",
+   "name": "Snowshoe Hare"
+  },
+  {
+   "id": "mountain_cottontail_rmnp",
+   "sci": "Sylvilagus nuttallii",
+   "name": "Mountain Cottontail"
+  },
+  {
+   "id": "muskrat_rmnp",
+   "sci": "Ondatra zibethicus",
+   "name": "Muskrat"
+  },
+  {
+   "id": "american_beaver_rmnp",
+   "sci": "Castor canadensis",
+   "name": "American Beaver"
+  },
+  {
+   "id": "southern_red_backed_vole_rmnp",
+   "sci": "Clethrionomys gapperi",
+   "name": "Southern Red-backed Vole"
+  },
+  {
+   "id": "northern_pocket_gopher_rmnp",
+   "sci": "Thomomys talpoides",
+   "name": "Northern Pocket Gopher"
+  },
+  {
+   "id": "coyote_rmnp",
+   "sci": "Canis latrans",
+   "name": "Coyote"
+  },
+  {
+   "id": "little_brown_bat_rmnp",
+   "sci": "Myotis lucifugus",
+   "name": "Little Brown Bat"
+  },
+  {
+   "id": "montane_vole_rmnp",
+   "sci": "Microtus montanus",
+   "name": "Montane Vole"
+  },
+  {
+   "id": "red_fox_rmnp",
+   "sci": "Vulpes vulpes",
+   "name": "Red Fox"
+  },
+  {
+   "id": "north_american_porcupine_rmnp",
+   "sci": "Erethizon dorsatus",
+   "name": "North American Porcupine"
+  },
+  {
+   "id": "moose_rmnp",
+   "sci": "Alces alces",
+   "name": "Moose"
+  },
+  {
+   "id": "mountain_goat_rmnp",
+   "sci": "Oreamnos americanus",
+   "name": "Mountain Goat"
+  },
+  {
+   "id": "american_black_bear_rmnp",
+   "sci": "Ursus americanus",
+   "name": "American Black Bear"
+  },
+  {
+   "id": "bobcat_rmnp",
+   "sci": "Lynx rufus",
+   "name": "Bobcat"
+  },
+  {
+   "id": "pacific_marten_rmnp",
+   "sci": "Martes caurina",
+   "name": "Pacific Marten"
+  },
+  {
+   "id": "long_tailed_weasel_rmnp",
+   "sci": "Mustela frenata",
+   "name": "Long-tailed Weasel"
+  },
+  {
+   "id": "ermine_rmnp",
+   "sci": "Mustela richardsonii",
+   "name": "American Ermine"
+  },
+  {
+   "id": "american_badger_rmnp",
+   "sci": "Taxidea taxus",
+   "name": "American Badger"
+  },
+  {
+   "id": "bighorn_sheep_rmnp",
+   "sci": "Ovis canadensis",
+   "name": "Bighorn Sheep"
+  },
+  {
+   "id": "cougar_rmnp",
+   "sci": "Puma concolor",
+   "name": "Cougar"
+  },
+  {
+   "id": "north_american_river_otter_rmnp",
+   "sci": "Lontra canadensis",
+   "name": "North American River Otter"
+  },
+  {
+   "id": "mountain_chickadee_rmnp",
+   "sci": "Poecile gambeli",
+   "name": "Mountain Chickadee"
+  },
+  {
+   "id": "american_robin_rmnp",
+   "sci": "Turdus migratorius",
+   "name": "American Robin"
+  },
+  {
+   "id": "stellers_jay_rmnp",
+   "sci": "Cyanocitta stelleri",
+   "name": "Steller's Jay"
+  },
+  {
+   "id": "black_billed_magpie_rmnp",
+   "sci": "Pica hudsonia",
+   "name": "Black-billed Magpie"
+  },
+  {
+   "id": "broad_tailed_hummingbird_rmnp",
+   "sci": "Selasphorus platycercus",
+   "name": "Broad-tailed Hummingbird"
+  },
+  {
+   "id": "common_raven_rmnp",
+   "sci": "Corvus corax",
+   "name": "Common Raven"
+  },
+  {
+   "id": "dark_eyed_junco_rmnp",
+   "sci": "Junco hyemalis",
+   "name": "Dark-eyed Junco"
+  },
+  {
+   "id": "pygmy_nuthatch_rmnp",
+   "sci": "Sitta pygmaea",
+   "name": "Pygmy Nuthatch"
+  },
+  {
+   "id": "violet_green_swallow_rmnp",
+   "sci": "Tachycineta thalassina",
+   "name": "Violet-green Swallow"
+  },
+  {
+   "id": "yellow_rumped_warbler_rmnp",
+   "sci": "Setophaga coronata",
+   "name": "Yellow-rumped Warbler"
+  },
+  {
+   "id": "northern_flicker_rmnp",
+   "sci": "Colaptes auratus",
+   "name": "Northern Flicker"
+  },
+  {
+   "id": "hairy_woodpecker_rmnp",
+   "sci": "Dryobates villosus",
+   "name": "Hairy Woodpecker"
+  },
+  {
+   "id": "clarks_nutcracker_rmnp",
+   "sci": "Nucifraga columbiana",
+   "name": "Clark's Nutcracker"
+  },
+  {
+   "id": "mountain_bluebird_rmnp",
+   "sci": "Sialia currucoides",
+   "name": "Mountain Bluebird"
+  },
+  {
+   "id": "house_wren_rmnp",
+   "sci": "Troglodytes aedon",
+   "name": "Northern House Wren"
+  },
+  {
+   "id": "red_breasted_nuthatch_rmnp",
+   "sci": "Sitta canadensis",
+   "name": "Red-breasted Nuthatch"
+  },
+  {
+   "id": "western_tanager_rmnp",
+   "sci": "Piranga ludoviciana",
+   "name": "Western Tanager"
+  },
+  {
+   "id": "green_tailed_towhee_rmnp",
+   "sci": "Pipilo chlorurus",
+   "name": "Green-tailed Towhee"
+  },
+  {
+   "id": "american_pipit_rmnp",
+   "sci": "Anthus rubescens",
+   "name": "American Pipit"
+  },
+  {
+   "id": "red_naped_sapsucker_rmnp",
+   "sci": "Sphyrapicus nuchalis",
+   "name": "Red-naped Sapsucker"
+  },
+  {
+   "id": "williamsons_sapsucker_rmnp",
+   "sci": "Sphyrapicus thyroideus",
+   "name": "Williamson's Sapsucker"
+  },
+  {
+   "id": "western_flycatcher_rmnp",
+   "sci": "Empidonax difficilis",
+   "name": "Western Flycatcher"
+  },
+  {
+   "id": "townsends_solitaire_rmnp",
+   "sci": "Myadestes townsendi",
+   "name": "Townsend's Solitaire"
+  },
+  {
+   "id": "canada_jay_rmnp",
+   "sci": "Perisoreus canadensis",
+   "name": "Canada Jay"
+  },
+  {
+   "id": "wild_turkey_rmnp",
+   "sci": "Meleagris gallopavo",
+   "name": "Wild Turkey"
+  },
+  {
+   "id": "rufous_hummingbird_rmnp",
+   "sci": "Selasphorus rufus",
+   "name": "Rufous Hummingbird"
+  },
+  {
+   "id": "american_dipper_rmnp",
+   "sci": "Cinclus mexicanus",
+   "name": "American Dipper"
+  },
+  {
+   "id": "red_tailed_hawk_rmnp",
+   "sci": "Buteo jamaicensis",
+   "name": "Red-tailed Hawk"
+  },
+  {
+   "id": "turkey_vulture_rmnp",
+   "sci": "Cathartes aura",
+   "name": "Turkey Vulture"
+  },
+  {
+   "id": "horned_lark_rmnp",
+   "sci": "Eremophila alpestris",
+   "name": "Horned Lark"
+  },
+  {
+   "id": "dusky_grouse_rmnp",
+   "sci": "Dendragapus obscurus",
+   "name": "Dusky Grouse"
+  },
+  {
+   "id": "american_three_toed_woodpecker_rmnp",
+   "sci": "Picoides dorsalis",
+   "name": "American Three-toed Woodpecker"
+  },
+  {
+   "id": "golden_eagle_rmnp",
+   "sci": "Aquila chrysaetos",
+   "name": "Golden Eagle"
+  },
+  {
+   "id": "black_swift_rmnp",
+   "sci": "Cypseloides niger",
+   "name": "Black Swift"
+  },
+  {
+   "id": "boreal_owl_rmnp",
+   "sci": "Aegolius funereus",
+   "name": "Boreal Owl"
+  },
+  {
+   "id": "northern_pygmy_owl_rmnp",
+   "sci": "Glaucidium gnoma",
+   "name": "Northern Pygmy-Owl"
+  },
+  {
+   "id": "prairie_falcon_rmnp",
+   "sci": "Falco mexicanus",
+   "name": "Prairie Falcon"
+  },
+  {
+   "id": "black_rosy_finch_rmnp",
+   "sci": "Leucosticte atrata",
+   "name": "Black Rosy-Finch"
+  },
+  {
+   "id": "calliope_hummingbird_rmnp",
+   "sci": "Selasphorus calliope",
+   "name": "Calliope Hummingbird"
+  },
+  {
+   "id": "white_tailed_ptarmigan_rmnp",
+   "sci": "Lagopus leucura",
+   "name": "White-tailed Ptarmigan"
+  },
+  {
+   "id": "brown_capped_rosy_finch_rmnp",
+   "sci": "Leucosticte australis",
+   "name": "Brown-capped Rosy-Finch"
+  },
+  {
+   "id": "terrestrial_garter_snake_rmnp",
+   "sci": "Thamnophis elegans",
+   "name": "Terrestrial Garter Snake"
+  },
+  {
+   "id": "bullsnake_rmnp",
+   "sci": "Pituophis catenifer",
+   "name": "Bullsnake"
+  },
+  {
+   "id": "prairie_rattlesnake_rmnp",
+   "sci": "Crotalus viridis",
+   "name": "Prairie Rattlesnake"
+  },
+  {
+   "id": "western_tiger_salamander_rmnp",
+   "sci": "Ambystoma mavortium",
+   "name": "Western Tiger Salamander"
+  },
+  {
+   "id": "boreal_chorus_frog_rmnp",
+   "sci": "Pseudacris maculata",
+   "name": "Boreal Chorus Frog"
+  },
+  {
+   "id": "boreal_toad_rmnp",
+   "sci": "Anaxyrus boreas",
+   "name": "Boreal Toad"
+  },
+  {
+   "id": "mountain_parnassian_rmnp",
+   "sci": "Parnassius smintheus",
+   "name": "Mountain Parnassian"
+  },
+  {
+   "id": "small_wood_nymph_rmnp",
+   "sci": "Cercyonis oetus",
+   "name": "Small Wood-Nymph"
+  },
+  {
+   "id": "common_ringlet_rmnp",
+   "sci": "Coenonympha tullia",
+   "name": "Common Ringlet"
+  },
+  {
+   "id": "hunts_bumble_bee_rmnp",
+   "sci": "Bombus huntii",
+   "name": "Hunt's Bumble Bee"
+  },
+  {
+   "id": "cherry_faced_meadowhawk_rmnp",
+   "sci": "Sympetrum internum",
+   "name": "Cherry-faced Meadowhawk"
+  },
+  {
+   "id": "rocky_mountain_wood_tick_rmnp",
+   "sci": "Dermacentor andersoni",
+   "name": "Rocky Mountain Wood Tick"
+  },
+  {
+   "id": "weidemeyers_admiral_rmnp",
+   "sci": "Limenitis weidemeyerii",
+   "name": "Weidemeyer's Admiral"
+  },
+  {
+   "id": "police_car_moth_rmnp",
+   "sci": "Gnophaela vermiculata",
+   "name": "Police Car Moth"
+  },
+  {
+   "id": "hoary_comma_rmnp",
+   "sci": "Polygonia gracilis",
+   "name": "Hoary Comma"
+  },
+  {
+   "id": "queen_alexandras_sulphur_rmnp",
+   "sci": "Colias alexandra",
+   "name": "Queen Alexandra's Sulphur"
+  },
+  {
+   "id": "arctic_blue_rmnp",
+   "sci": "Agriades glandon",
+   "name": "Arctic Blue"
+  },
+  {
+   "id": "western_bumble_bee_rmnp",
+   "sci": "Bombus occidentalis",
+   "name": "Western Bumble Bee"
+  },
+  {
+   "id": "paddle_tailed_darner_rmnp",
+   "sci": "Aeshna palmata",
+   "name": "Paddle-tailed Darner"
+  },
+  {
+   "id": "spruce_beetle_rmnp",
+   "sci": "Dendroctonus rufipennis",
+   "name": "Spruce Beetle"
+  },
+  {
+   "id": "army_cutworm_moth_rmnp",
+   "sci": "Euxoa auxiliaris",
+   "name": "Army Cutworm Moth"
+  }
+ ],
+ "sky_islands": [
+  {
+   "id": "cliff_chipmunk_sky",
+   "sci": "Neotamias dorsalis",
+   "name": "Cliff Chipmunk"
+  },
+  {
+   "id": "coues_white_tailed_deer_sky",
+   "sci": "Odocoileus virginianus",
+   "name": "Coues White-tailed Deer"
+  },
+  {
+   "id": "rock_squirrel_sky",
+   "sci": "Otospermophilus variegatus",
+   "name": "Rock Squirrel"
+  },
+  {
+   "id": "mexican_woodrat_sky",
+   "sci": "Neotoma mexicana",
+   "name": "Mexican Woodrat"
+  },
+  {
+   "id": "brush_mouse_sky",
+   "sci": "Peromyscus boylii",
+   "name": "Brush Mouse"
+  },
+  {
+   "id": "bottas_pocket_gopher_sky",
+   "sci": "Thomomys bottae",
+   "name": "Botta's Pocket Gopher"
+  },
+  {
+   "id": "mexican_free_tailed_bat_sky",
+   "sci": "Tadarida brasiliensis",
+   "name": "Mexican Free-tailed Bat"
+  },
+  {
+   "id": "chiricahua_fox_squirrel_sky",
+   "sci": "Sciurus nayaritensis",
+   "name": "Chiricahua Fox Squirrel"
+  },
+  {
+   "id": "aberts_squirrel_sky",
+   "sci": "Sciurus aberti",
+   "name": "Abert's Squirrel"
+  },
+  {
+   "id": "white_nosed_coati_sky",
+   "sci": "Nasua narica",
+   "name": "White-nosed Coati"
+  },
+  {
+   "id": "javelina_sky",
+   "sci": "Pecari tajacu",
+   "name": "Javelina"
+  },
+  {
+   "id": "gray_fox_sky",
+   "sci": "Urocyon cinereoargenteus",
+   "name": "Gray Fox"
+  },
+  {
+   "id": "coyote_sky",
+   "sci": "Canis latrans",
+   "name": "Coyote"
+  },
+  {
+   "id": "striped_skunk_sky",
+   "sci": "Mephitis mephitis",
+   "name": "Striped Skunk"
+  },
+  {
+   "id": "mule_deer_sky",
+   "sci": "Odocoileus hemionus",
+   "name": "Mule Deer"
+  },
+  {
+   "id": "yellow_nosed_cotton_rat_sky",
+   "sci": "Sigmodon ochrognathus",
+   "name": "Yellow-nosed Cotton Rat"
+  },
+  {
+   "id": "robust_cottontail_sky",
+   "sci": "Sylvilagus holzneri",
+   "name": "Robust Cottontail"
+  },
+  {
+   "id": "arizona_gray_squirrel_sky",
+   "sci": "Sciurus arizonensis",
+   "name": "Arizona Gray Squirrel"
+  },
+  {
+   "id": "hooded_skunk_sky",
+   "sci": "Mephitis macroura",
+   "name": "Hooded Skunk"
+  },
+  {
+   "id": "hog_nosed_skunk_sky",
+   "sci": "Conepatus leuconotus",
+   "name": "Hog-nosed Skunk"
+  },
+  {
+   "id": "ringtail_sky",
+   "sci": "Bassariscus astutus",
+   "name": "Ringtail"
+  },
+  {
+   "id": "black_bear_sky",
+   "sci": "Ursus americanus",
+   "name": "Black Bear"
+  },
+  {
+   "id": "bobcat_sky",
+   "sci": "Lynx rufus",
+   "name": "Bobcat"
+  },
+  {
+   "id": "lesser_long_nosed_bat_sky",
+   "sci": "Leptonycteris yerbabuenae",
+   "name": "Lesser Long-nosed Bat"
+  },
+  {
+   "id": "mexican_long_tongued_bat_sky",
+   "sci": "Choeronycteris mexicana",
+   "name": "Mexican Long-tongued Bat"
+  },
+  {
+   "id": "allens_big_eared_bat_sky",
+   "sci": "Idionycteris phyllotis",
+   "name": "Allen's Big-eared Bat"
+  },
+  {
+   "id": "arizona_shrew_sky",
+   "sci": "Sorex arizonae",
+   "name": "Arizona Shrew"
+  },
+  {
+   "id": "porcupine_sky",
+   "sci": "Erethizon dorsatus",
+   "name": "North American Porcupine"
+  },
+  {
+   "id": "mountain_lion_sky",
+   "sci": "Puma concolor",
+   "name": "Mountain Lion"
+  },
+  {
+   "id": "desert_bighorn_sheep_sky",
+   "sci": "Ovis canadensis",
+   "name": "Desert Bighorn Sheep"
+  },
+  {
+   "id": "acorn_woodpecker_sky",
+   "sci": "Melanerpes formicivorus",
+   "name": "Acorn Woodpecker"
+  },
+  {
+   "id": "yellow_eyed_junco_sky",
+   "sci": "Junco phaeonotus",
+   "name": "Yellow-eyed Junco"
+  },
+  {
+   "id": "white_breasted_nuthatch_sky",
+   "sci": "Sitta carolinensis",
+   "name": "White-breasted Nuthatch"
+  },
+  {
+   "id": "mexican_jay_sky",
+   "sci": "Aphelocoma wollweberi",
+   "name": "Mexican Jay"
+  },
+  {
+   "id": "spotted_towhee_sky",
+   "sci": "Pipilo maculatus",
+   "name": "Spotted Towhee"
+  },
+  {
+   "id": "painted_redstart_sky",
+   "sci": "Myioborus pictus",
+   "name": "Painted Redstart"
+  },
+  {
+   "id": "bridled_titmouse_sky",
+   "sci": "Baeolophus wollweberi",
+   "name": "Bridled Titmouse"
+  },
+  {
+   "id": "black_headed_grosbeak_sky",
+   "sci": "Pheucticus melanocephalus",
+   "name": "Black-headed Grosbeak"
+  },
+  {
+   "id": "hepatic_tanager_sky",
+   "sci": "Piranga flava",
+   "name": "Hepatic Tanager"
+  },
+  {
+   "id": "stellers_jay_sky",
+   "sci": "Cyanocitta stelleri",
+   "name": "Steller's Jay"
+  },
+  {
+   "id": "common_raven_sky",
+   "sci": "Corvus corax",
+   "name": "Common Raven"
+  },
+  {
+   "id": "turkey_vulture_sky",
+   "sci": "Cathartes aura",
+   "name": "Turkey Vulture"
+  },
+  {
+   "id": "broad_tailed_hummingbird_sky",
+   "sci": "Selasphorus platycercus",
+   "name": "Broad-tailed Hummingbird"
+  },
+  {
+   "id": "rivolis_hummingbird_sky",
+   "sci": "Eugenes fulgens",
+   "name": "Rivoli's Hummingbird"
+  },
+  {
+   "id": "blue_throated_mountain_gem_sky",
+   "sci": "Lampornis clemenciae",
+   "name": "Blue-throated Mountain-gem"
+  },
+  {
+   "id": "red_faced_warbler_sky",
+   "sci": "Cardellina rubrifrons",
+   "name": "Red-faced Warbler"
+  },
+  {
+   "id": "graces_warbler_sky",
+   "sci": "Setophaga graciae",
+   "name": "Grace's Warbler"
+  },
+  {
+   "id": "black_throated_gray_warbler_sky",
+   "sci": "Setophaga nigrescens",
+   "name": "Black-throated Gray Warbler"
+  },
+  {
+   "id": "olive_warbler_sky",
+   "sci": "Peucedramus taeniatus",
+   "name": "Olive Warbler"
+  },
+  {
+   "id": "arizona_woodpecker_sky",
+   "sci": "Dryobates arizonae",
+   "name": "Arizona Woodpecker"
+  },
+  {
+   "id": "brown_creeper_sky",
+   "sci": "Certhia americana",
+   "name": "Brown Creeper"
+  },
+  {
+   "id": "dusky_capped_flycatcher_sky",
+   "sci": "Myiarchus tuberculifer",
+   "name": "Dusky-capped Flycatcher"
+  },
+  {
+   "id": "sulphur_bellied_flycatcher_sky",
+   "sci": "Myiodynastes luteiventris",
+   "name": "Sulphur-bellied Flycatcher"
+  },
+  {
+   "id": "canyon_wren_sky",
+   "sci": "Catherpes mexicanus",
+   "name": "Canyon Wren"
+  },
+  {
+   "id": "red_tailed_hawk_sky",
+   "sci": "Buteo jamaicensis",
+   "name": "Red-tailed Hawk"
+  },
+  {
+   "id": "white_throated_swift_sky",
+   "sci": "Aeronautes saxatalis",
+   "name": "White-throated Swift"
+  },
+  {
+   "id": "mexican_chickadee_sky",
+   "sci": "Poecile sclateri",
+   "name": "Mexican Chickadee"
+  },
+  {
+   "id": "montezuma_quail_sky",
+   "sci": "Cyrtonyx montezumae",
+   "name": "Montezuma Quail"
+  },
+  {
+   "id": "goulds_wild_turkey_sky",
+   "sci": "Meleagris gallopavo",
+   "name": "Gould's Wild Turkey"
+  },
+  {
+   "id": "whiskered_screech_owl_sky",
+   "sci": "Megascops trichopsis",
+   "name": "Whiskered Screech-Owl"
+  },
+  {
+   "id": "mexican_whip_poor_will_sky",
+   "sci": "Antrostomus arizonae",
+   "name": "Mexican Whip-poor-will"
+  },
+  {
+   "id": "northern_pygmy_owl_sky",
+   "sci": "Glaucidium gnoma",
+   "name": "Northern Pygmy-Owl"
+  },
+  {
+   "id": "flammulated_owl_sky",
+   "sci": "Psiloscops flammeolus",
+   "name": "Flammulated Owl"
+  },
+  {
+   "id": "zone_tailed_hawk_sky",
+   "sci": "Buteo albonotatus",
+   "name": "Zone-tailed Hawk"
+  },
+  {
+   "id": "common_black_hawk_sky",
+   "sci": "Buteogallus anthracinus",
+   "name": "Common Black Hawk"
+  },
+  {
+   "id": "elegant_trogon_sky",
+   "sci": "Trogon elegans",
+   "name": "Elegant Trogon"
+  },
+  {
+   "id": "mexican_spotted_owl_sky",
+   "sci": "Strix occidentalis",
+   "name": "Mexican Spotted Owl"
+  },
+  {
+   "id": "short_tailed_hawk_sky",
+   "sci": "Buteo brachyurus",
+   "name": "Short-tailed Hawk"
+  },
+  {
+   "id": "eared_quetzal_sky",
+   "sci": "Euptilotis neoxenus",
+   "name": "Eared Quetzal"
+  },
+  {
+   "id": "yarrows_spiny_lizard_sky",
+   "sci": "Sceloporus jarrovii",
+   "name": "Yarrow's Spiny Lizard"
+  },
+  {
+   "id": "striped_plateau_lizard_sky",
+   "sci": "Sceloporus virgatus",
+   "name": "Striped Plateau Lizard"
+  },
+  {
+   "id": "ornate_tree_lizard_sky",
+   "sci": "Urosaurus ornatus",
+   "name": "Ornate Tree Lizard"
+  },
+  {
+   "id": "southwestern_fence_lizard_sky",
+   "sci": "Sceloporus cowlesi",
+   "name": "Southwestern Fence Lizard"
+  },
+  {
+   "id": "clarks_spiny_lizard_sky",
+   "sci": "Sceloporus clarkii",
+   "name": "Clark's Spiny Lizard"
+  },
+  {
+   "id": "greater_short_horned_lizard_sky",
+   "sci": "Phrynosoma hernandesi",
+   "name": "Greater Short-horned Lizard"
+  },
+  {
+   "id": "madrean_alligator_lizard_sky",
+   "sci": "Elgaria kingii",
+   "name": "Madrean Alligator Lizard"
+  },
+  {
+   "id": "sonoran_spotted_whiptail_sky",
+   "sci": "Aspidoscelis sonorae",
+   "name": "Sonoran Spotted Whiptail"
+  },
+  {
+   "id": "black_tailed_rattlesnake_sky",
+   "sci": "Crotalus molossus",
+   "name": "Black-tailed Rattlesnake"
+  },
+  {
+   "id": "black_necked_garter_snake_sky",
+   "sci": "Thamnophis cyrtopsis",
+   "name": "Black-necked Garter Snake"
+  },
+  {
+   "id": "twin_spotted_rattlesnake_sky",
+   "sci": "Crotalus pricei",
+   "name": "Twin-spotted Rattlesnake"
+  },
+  {
+   "id": "rock_rattlesnake_sky",
+   "sci": "Crotalus lepidus",
+   "name": "Rock Rattlesnake"
+  },
+  {
+   "id": "arizona_black_rattlesnake_sky",
+   "sci": "Crotalus cerberus",
+   "name": "Arizona Black Rattlesnake"
+  },
+  {
+   "id": "sonoran_mountain_kingsnake_sky",
+   "sci": "Lampropeltis pyromelana",
+   "name": "Sonoran Mountain Kingsnake"
+  },
+  {
+   "id": "sonoran_coral_snake_sky",
+   "sci": "Micruroides euryxanthus",
+   "name": "Sonoran Coral Snake"
+  },
+  {
+   "id": "sonoran_mud_turtle_sky",
+   "sci": "Kinosternon sonoriense",
+   "name": "Sonoran Mud Turtle"
+  },
+  {
+   "id": "ornate_box_turtle_sky",
+   "sci": "Terrapene ornata",
+   "name": "Ornate Box Turtle"
+  },
+  {
+   "id": "green_rat_snake_sky",
+   "sci": "Senticolis triaspis",
+   "name": "Green Rat Snake"
+  },
+  {
+   "id": "canyon_treefrog_sky",
+   "sci": "Dryophytes arenicolor",
+   "name": "Canyon Treefrog"
+  },
+  {
+   "id": "red_spotted_toad_sky",
+   "sci": "Anaxyrus punctatus",
+   "name": "Red-spotted Toad"
+  },
+  {
+   "id": "mexican_spadefoot_sky",
+   "sci": "Spea multiplicata",
+   "name": "Mexican Spadefoot"
+  },
+  {
+   "id": "couchs_spadefoot_sky",
+   "sci": "Scaphiopus couchii",
+   "name": "Couch's Spadefoot"
+  },
+  {
+   "id": "chiricahua_leopard_frog_sky",
+   "sci": "Lithobates chiricahuensis",
+   "name": "Chiricahua Leopard Frog"
+  },
+  {
+   "id": "arizona_sister_sky",
+   "sci": "Adelpha eulalia",
+   "name": "Arizona Sister"
+  },
+  {
+   "id": "red_harvester_ant_sky",
+   "sci": "Pogonomyrmex barbatus",
+   "name": "Red Harvester Ant"
+  },
+  {
+   "id": "sonoran_bumble_bee_sky",
+   "sci": "Bombus sonorus",
+   "name": "Sonoran Bumble Bee"
+  },
+  {
+   "id": "two_tailed_swallowtail_sky",
+   "sci": "Papilio multicaudata",
+   "name": "Two-tailed Swallowtail"
+  },
+  {
+   "id": "pipevine_swallowtail_sky",
+   "sci": "Battus philenor",
+   "name": "Pipevine Swallowtail"
+  },
+  {
+   "id": "rainbow_scarab_sky",
+   "sci": "Phanaeus quadridens",
+   "name": "Rainbow Scarab"
+  },
+  {
+   "id": "ten_lined_june_beetle_sky",
+   "sci": "Polyphylla decemlineata",
+   "name": "Ten-lined June Beetle"
+  },
+  {
+   "id": "pleasing_fungus_beetle_sky",
+   "sci": "Gibbifer californicus",
+   "name": "Pleasing Fungus Beetle"
+  },
+  {
+   "id": "red_rock_skimmer_sky",
+   "sci": "Paltothemis lineatipes",
+   "name": "Red Rock Skimmer"
+  },
+  {
+   "id": "arizona_blond_tarantula_sky",
+   "sci": "Aphonopelma chalcodes",
+   "name": "Arizona Blond Tarantula"
+  },
+  {
+   "id": "giant_crab_spider_sky",
+   "sci": "Olios giganteus",
+   "name": "Giant Crab Spider"
+  },
+  {
+   "id": "giant_vinegaroon_sky",
+   "sci": "Mastigoproctus tohono",
+   "name": "Giant Vinegaroon"
+  },
+  {
+   "id": "canyon_rubyspot_sky",
+   "sci": "Hetaerina vulnerata",
+   "name": "Canyon Rubyspot"
+  },
+  {
+   "id": "chiricahua_mountainsnail_sky",
+   "sci": "Ashmunella chiricahuana",
+   "name": "Cave Creek Woodlandsnail"
+  },
+  {
+   "id": "glorious_beetle_sky",
+   "sci": "Chrysina gloriosa",
+   "name": "Glorious Beetle"
+  }
+ ]
+}
